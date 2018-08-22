@@ -1,10 +1,10 @@
 # Site settings
-title: Geohackweek 2018
-email: landungs@uw.edu
-description: Workshop On Geospatial Data Science <br>
+title: Waterhackweek 2019
+email: cristn@uw.edu
+description: Workshop On Water Data Science <br>
              University of Washington eScience Institute <br>
-             Sept 10 - 14, 2018 <br> <br>
-             Applications have been closed. <br>
+             March 23-31, 2019 <br> <br>
+             Applications are open <br>
              Announcements will be made shortly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -25,9 +25,9 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: https://geohackweek2018.slack.com
+slack_url: https://waterhackweek2019.slack.com
 twitter_url:
-email_url: geohack@uw.edu
+email_url: waterhack@uw.edu
 
 # Build settings
 markdown: kramdown

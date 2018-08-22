@@ -33,7 +33,7 @@ description: Current Tentative schedule
 
 <td>8:30 - 9:15 AM</td>
 
-<td>Welcome to Geohackweek</td>
+<td>Welcome to Waterhackweek</td>
 
 <td>Anthony Arendt</td>
 
