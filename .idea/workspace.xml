@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/section-three.html" afterPath="$PROJECT_DIR$/_includes/section-three.html" />
-    </list>
+    <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -986,12 +983,12 @@
       <workItem from="1534960745125" duration="2111000" />
       <workItem from="1534968585285" duration="9000" />
       <workItem from="1534968896026" duration="140000" />
-      <workItem from="1534969060296" duration="1532000" />
+      <workItem from="1534969060296" duration="1585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37338000" />
+    <option name="totallyTimeSpent" value="37391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="102" y="95" width="1228" height="877" extended-state="0" />
@@ -1359,8 +1356,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1534975985000" expanded="true" signature="73517:73536" placeholder="..." />
-            <marker date="1534975985000" expanded="true" signature="73517:73554" placeholder="..." />
+            <marker date="1534975991000" expanded="true" signature="73517:73536" placeholder="..." />
+            <marker date="1534975991000" expanded="true" signature="73517:73554" placeholder="..." />
           </folding>
         </state>
       </provider>
