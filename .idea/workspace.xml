@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+            <state vertical-scroll-proportion="0.15182187">
+              <caret line="7" column="109" selection-start-line="7" selection-start-column="109" selection-end-line="7" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -116,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="section-one.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="section-one.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section-one.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5425532">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="6" column="88" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="106" />
               <folding />
             </state>
           </provider>
@@ -171,8 +171,8 @@
         <option value="$PROJECT_DIR$/pages/schedule.md" />
         <option value="$PROJECT_DIR$/_includes/section-three.html" />
         <option value="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/section-one.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -937,12 +937,12 @@
       <workItem from="1534968896026" duration="140000" />
       <workItem from="1534969060296" duration="2541000" />
       <workItem from="1535141583329" duration="793000" />
-      <workItem from="1537482083024" duration="2027000" />
+      <workItem from="1537482083024" duration="2265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41167000" />
+    <option name="totallyTimeSpent" value="41405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="62" width="1351" height="877" extended-state="0" />
@@ -1289,10 +1289,10 @@
         <state vertical-scroll-proportion="269.375">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537484395000" expanded="true" signature="71609:71628" placeholder="..." />
-            <marker date="1537484395000" expanded="true" signature="71609:71646" placeholder="..." />
-            <marker date="1537484395000" expanded="true" signature="71609:71659" placeholder="..." />
-            <marker date="1537484395000" expanded="true" signature="71609:71674" placeholder="..." />
+            <marker date="1537484660000" expanded="true" signature="71739:71758" placeholder="..." />
+            <marker date="1537484660000" expanded="true" signature="71739:71776" placeholder="..." />
+            <marker date="1537484660000" expanded="true" signature="71739:71789" placeholder="..." />
+            <marker date="1537484660000" expanded="true" signature="71739:71804" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1410,18 +1410,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_includes/section-one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="106" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section-one.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5425532">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.15182187">
+          <caret line="7" column="109" selection-start-line="7" selection-start-column="109" selection-end-line="7" selection-end-column="109" />
           <folding />
         </state>
       </provider>
