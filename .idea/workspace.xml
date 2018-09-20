@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/section-one.html" afterPath="$PROJECT_DIR$/_includes/section-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/section-three.html" afterPath="$PROJECT_DIR$/_includes/section-three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" afterPath="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,8 +41,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5769231">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.21255061">
+              <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -939,12 +935,12 @@
       <workItem from="1534968896026" duration="140000" />
       <workItem from="1534969060296" duration="2541000" />
       <workItem from="1535141583329" duration="793000" />
-      <workItem from="1537482083024" duration="1654000" />
+      <workItem from="1537482083024" duration="1861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40794000" />
+    <option name="totallyTimeSpent" value="41001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="62" width="1351" height="877" extended-state="0" />
@@ -1291,10 +1287,10 @@
         <state vertical-scroll-proportion="269.375">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537483924000" expanded="true" signature="72063:72082" placeholder="..." />
-            <marker date="1537483924000" expanded="true" signature="72063:72100" placeholder="..." />
-            <marker date="1537483924000" expanded="true" signature="72063:72113" placeholder="..." />
-            <marker date="1537483924000" expanded="true" signature="72063:72128" placeholder="..." />
+            <marker date="1537483927000" expanded="true" signature="72061:72080" placeholder="..." />
+            <marker date="1537483927000" expanded="true" signature="72061:72098" placeholder="..." />
+            <marker date="1537483927000" expanded="true" signature="72061:72111" placeholder="..." />
+            <marker date="1537483927000" expanded="true" signature="72061:72126" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1422,8 +1418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5769231">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.21255061">
+          <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
           <folding />
         </state>
       </provider>
