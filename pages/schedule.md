@@ -2,10 +2,10 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: Current Tentative schedule
+description: Example schedule from Geohackweek 2018
 ---
 
-## Tentative Schedule
+## Example Schedule from previous hack event : Geohackweek 2018
 
 - [Monday](#monday)
 - [Tuesday](#tuesday)
