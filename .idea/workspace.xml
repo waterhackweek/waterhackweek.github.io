@@ -4,7 +4,6 @@
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" afterPath="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,8 +52,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.091093116">
-              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.30364373">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -963,12 +962,12 @@
       <workItem from="1534968896026" duration="140000" />
       <workItem from="1534969060296" duration="2541000" />
       <workItem from="1535141583329" duration="793000" />
-      <workItem from="1537482083024" duration="5183000" />
+      <workItem from="1537482083024" duration="5289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44323000" />
+    <option name="totallyTimeSpent" value="44429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-32" y="82" width="1351" height="877" extended-state="0" />
@@ -1280,7 +1279,7 @@
         <state vertical-scroll-proportion="141.875">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1537817220000" expanded="true" signature="72955:72974" placeholder="..." />
+            <marker date="1537817402000" expanded="true" signature="72643:72662" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1445,8 +1444,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.091093116">
-          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.30364373">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding />
         </state>
       </provider>
