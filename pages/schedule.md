@@ -14,7 +14,6 @@ description: Current Tentative schedule
 - [Friday](#friday)
 
 ### Monday
-
 <table>
 
 <tbody>
@@ -33,9 +32,9 @@ description: Current Tentative schedule
 
 <td>8:30 - 9:15 AM</td>
 
-<td>Welcome to Waterhackweek</td>
+<td>Welcome to Geohackweek</td>
 
-<td>Anthony Arendt</td>
+<td>geohackweek adminstrative team </td>
 
 </tr>
 
@@ -69,7 +68,7 @@ description: Current Tentative schedule
 
 </tr>
 
-</tr>
+<tr>
 
 <td>12:00 PM - 1:00 PM</td>
 
@@ -84,7 +83,7 @@ description: Current Tentative schedule
 <td>1:00 PM to 2:00 PM</td>
 
 <td>
-<a href="https://geohackweek.github.io/Introductory/">Data Sharing and Collaboration Tools</a>
+<a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a> - <a href="https://youtu.be/_vhNc1OpOg0"> video </a>
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
@@ -149,7 +148,7 @@ description: Current Tentative schedule
 
 <td>8:30 AM to 10:00 AM</td>
 
-<td><a href="https://geohackweek.github.io/vector/">Vector tools</a></td>
+<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 
 <td>Emilio Mayorga</td>
 
@@ -169,7 +168,7 @@ description: Current Tentative schedule
 
 <td>10:30 AM to 12:00 PM</td>
 
-<td><a href="https://geohackweek.github.io/raster/">Raster tools</a></td>
+<td><a href="https://geohackweek.github.io/raster/">Raster tools</a> - <a href="https://youtu.be/PvgkplmHZ4U"> video </a></td>
 
 <td>James Douglass, David Shean</td>
 
@@ -209,7 +208,7 @@ description: Current Tentative schedule
 
 <td>4:30 PM - 5:15 PM</td>
 
-<td>Happy Hour, School of Forestry and Environmental Sciences</td>
+<td>Happy Hour, School of Forestry and Environmental Sciences Anderson Hall Room 207</td>
 
 <td>Everyone</td>
 
@@ -219,19 +218,9 @@ description: Current Tentative schedule
 
 <td>5:15 PM - 6:00 PM</td>
 
-<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery</td>
+<td>Presentation by <a href="https://glad.umd.edu/team/matthew-hansen">Matt Hansen</a>, Global Land Analysis and Discovery (Anderson Hall Room 223)</td>
 
 <td>Everyone</td>
-
-</tr>
-
-<tr>
-
-<td>Studio Open Until 11 PM (optional)</td>
-
-<td>Hackathon Sessions</td>
-
-<td></td>
 
 </tr>
 
@@ -259,7 +248,7 @@ description: Current Tentative schedule
 
 <td> 8:30 AM to 9:45 AM</td>
 
-<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> </td>
+<td> <a href="https://geohackweek.github.io/machine-learning/">Machine Learning</a> - <a href="https://youtu.be/Vz6bimvV7tY"> video </a></td>
 
 <td> Bernease Herman and Shay Strong </td>
 
@@ -275,11 +264,11 @@ description: Current Tentative schedule
 
 </tr>
 
-<tr> 
+<tr>
 
 <td> 10:15 AM to 12:00 PM </td>
 
-<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a></td>
+<td><a href="https://geohackweek.github.io/GoogleEarthEngine/">Google Earth Engine</a> - ,<a href="https://youtu.be/VMJ1ZO48cwU"> video </a></td>
 
 <td>Catherine Kuhn</td>
 
@@ -297,17 +286,17 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 - 1:30 PM</td>
+<td>1:00 - 1:15 PM</td>
 
-<td>Industry Lightning Talks</td>
+<td>Group Photo </td>
 
-<td> TBD </td>
+<td> Everyone </td>
 
 </tr>
 
 <tr>
 
-<td>1:30 PM - 4:30 PM</td>
+<td>1:15 PM - 4:30 PM</td>
 
 <td>Project Work</td>
 
@@ -327,7 +316,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Studio Open Until 11 PM (optional)</td>
+<td> South Campus Center open until 7 PM (optional)</td>
 
 <td>Hackathon Sessions</td>
 
@@ -359,7 +348,7 @@ description: Current Tentative schedule
 
 <td>9:00 AM to 10:15 AM</td>
 
-<td><a href="https://geohackweek.github.io/visualization/">Visualization</a></td>
+<td><a href="https://geohackweek.github.io/visualization/">Visualization</a> - <a href="https://youtu.be/bkq-ND_DfYQ"> video </a></td>
 
 <td>Tony Cannistra</td>
 
@@ -379,7 +368,7 @@ description: Current Tentative schedule
 
 <td>10:30 - 11:45 AM</td>
 
-<td><a href="https://github.com/geohackweek/tutorial_contents/blob/master/nDarrays/notebooks/ndarrays_intro.ipynb">nD Arrays</a></td>
+<td><a href="https://github.com/jhamman/xarray_tutorial">nD Arrays</a> <a href="https://youtu.be/yQ1m4rwl8No"> video </a></td>
 
 <td>Joe Hamman</td>
 
@@ -397,7 +386,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>1:00 PM - 5:00 PM</td>
+<td>1:00 PM - 2:00 PM</td>
 
 <td>Project Work</td>
 
@@ -407,7 +396,27 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Studio Open Until 11 PM (optional)</td>
+<td> 2:00 PM - 3:00 PM</td>
+
+<td>Industry Panel</td>
+
+<td> Ben Hudson (Zillow), Sarah Battersby (Tableau), Andrew Pawloski (Element84)</td>
+
+</tr>
+
+<tr>
+
+<td>3:00 PM - 5:00 PM</td>
+
+<td>Project Work</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>South Campus Center open Until 7 PM (optional)</td>
 
 <td>Hackathon Sessions</td>
 
@@ -437,7 +446,7 @@ description: Current Tentative schedule
 
 <tr>
 
-<td>Morning</td>
+<td>8:30 am - 10:00 AM </td>
 
 <td>Open Tutorial Session</td>
 
@@ -445,19 +454,50 @@ description: Current Tentative schedule
 
 </tr>
 
+
 <tr>
 
-<td>Morning</td>
+<td>10:00 - 10:30 AM</td>
 
-<td>Reproducible Research</td>
+<td>Coffee Break</td>
 
-<td>David Beck</td>
+<td></td>
 
 </tr>
 
 <tr>
 
-<td>Afternoon</td>
+<td>10:30 AM - 12:00 PM </td>
+
+<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Steps to Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
+
+<td>Don Setiawan</td>
+
+</tr>
+
+<tr>
+
+<td>12:00 PM - 1:00 PM</td>
+
+<td>Lunch</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>1:00 PM - 1:30 PM</td>
+
+<td>Geohack survey</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>1:30 PM - 3:30 PM</td>
 
 <td>Project Presentations</td>
 
