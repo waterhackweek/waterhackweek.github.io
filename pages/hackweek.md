@@ -14,6 +14,6 @@ components: tutorials on state-of-the-art methodology, peer-learning, and on-sit
 project work in a collaborative environment. This setup is particularly powerful for
 sciences that require not only domain-specific knowledge, but also effective computational
 workflows to foster rapid exchange of ideas and make discovery, as has been shown by
-the success of the previous *Astro-* and *Neurohackweeks*. This is an excellent match
+the success of the previous *Geohack-*, *Astro-* and *Neurohackweeks*. This is an excellent match
 with the nature of geospatial research where data are large and complex and the
 community is diverse and collaborative.
