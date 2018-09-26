@@ -6,7 +6,7 @@ description: To best benefit from the program, participants are expected to have
              (e.g. time series and remote sensing analysis, vector mapping, modeling, etc.). Successful applicants
              will pay a $100  registration fee and be expected to cover lodging and travel expenses.
              Financial support may be available based on need.
-             If you would like to register click <a href="https://www.jotform.com/build/82396990821165/">here</a> <br>.
+             If you would like to register click <a href="https://https://form.jotform.com/82396990821165/">here</a> <br>.
 image: geohackweek_01.png
 
 ---
