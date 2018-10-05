@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Information for Applicants
-description: To best benefit from the program, participants are expected to have some experience with Python
-             programming and with analysis of water data
-             (e.g. time series and remote sensing analysis, vector mapping, modeling, etc.). Successful applicants
-             will pay a $100  registration fee and be expected to cover lodging and travel expenses.
-             Financial support may be available based on need.
-             For those who do not know Python or wish to improve their skills, we are organizing a <a href="https://software-carpentry.org/">Software Carpentry workshop Feb. 7-8, 2019 </a> on the University of Washington campus. There are no registration fees for this event. We will also provide guidance to participants on Python and other tools through self-guided study. 
-             If you would like to register for Waterhackweek click <a href="https://form.jotform.com/82396990821165/">here</a> <br>.
-image: geohackweek_01.png
+title: Information for Sponsors
+description: 
+            If you are intersted in sponsoring a Hackweek event (e.g. student-industry mixer, welcome and farewell receptions) please contact fwi@uw.edu. Sponsors will benefit from advertising their company, 
+            networking with data scientists, discovering new technology and research and collaborating on projects. Other opportunities include sponsoring
+            a need-based student to support diversity and education evaluation for hackweek best practices. 
+image: industry_affiliates.jpg
+
 
 ---
 To best benefit from the program, participants are expected to have some experience with Python
