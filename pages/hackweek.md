@@ -2,7 +2,7 @@
 layout: page
 title: What is a hackweek?
 permalink: hackweek.html
-description: What is a hackweek?
+description: 
 ---
 
 [The hackweek model](https://arxiv.org/abs/1711.00028) has emerged within the data
