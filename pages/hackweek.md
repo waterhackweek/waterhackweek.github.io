@@ -2,7 +2,7 @@
 layout: page
 title: What is a hackweek?
 permalink: hackweek.html
-description: Learn about "hackweek".
+description: What is a hackweek?
 ---
 
 [The hackweek model](https://arxiv.org/abs/1711.00028) has emerged within the data
@@ -13,7 +13,6 @@ or workshops, hackweeks are intensive and interactive, facilitated by three core
 components: tutorials on state-of-the-art methodology, peer-learning, and on-site
 project work in a collaborative environment. This setup is particularly powerful for
 sciences that require not only domain-specific knowledge, but also effective computational
-workflows to foster rapid exchange of ideas and make discovery, as has been shown by
-the success of the previous *Geohack-*, *Astro-* and *Neurohackweeks*. This is an excellent match
-with the nature of geospatial research where data are large and complex and the
-community is diverse and collaborative.
+workflows to foster the rapid exchange of ideas and aid discovery.  *Waterhackweek* is pleased to join the ranks of 
+other succesful hackweeks hosted at the University of Washington and eScience Institute, including 
+[Geohack](https://geohackweek.github.io/), [Oceanhack](https://oceanhackweek.github.io/), [Astrohack](http://astrohackweek.org/2018/)and [Neurohackweeks](https://neurohackademy.org/).
