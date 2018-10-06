@@ -49,6 +49,8 @@ team:
       affiliate: Biomedical Informatics and Medical Education
       image_url: /assets/images/jim_phuong.jpeg
       github_user: jphuong
+ ---
+ 
 <!--
   - - name: Joe Hamman
       title: Postdoctoral Researcher
