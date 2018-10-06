@@ -38,7 +38,9 @@ team:
       affiliate: APL
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
-      
+  ---
+  
+ <!--     
  - - name: Lily McGill
       title: PhD Student
       affiliate: College of Engineering
@@ -49,9 +51,9 @@ team:
       affiliate: Biomedical Informatics and Medical Education
       image_url: /assets/images/jim_phuong.jpeg
       github_user: jphuong
- ---
- 
-<!--
+      
+      
+
   - - name: Joe Hamman
       title: Postdoctoral Researcher
       affiliate: NCAR
