@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/section-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/section-three.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/hackweek.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/hackweek.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md" beforeDir="false" afterPath="$PROJECT_DIR$/assets/2018-02-14-information-for-sponsors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/team.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +35,7 @@
           <entry key="gemspec" value="1" />
           <entry key="html" value="35" />
           <entry key="iml" value="2" />
-          <entry key="md" value="21" />
+          <entry key="md" value="22" />
           <entry key="xml" value="6" />
           <entry key="yml" value="5" />
         </counts>
@@ -43,7 +44,7 @@
         <counts>
           <entry key="HTML" value="35" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="Markdown" value="21" />
+          <entry key="Markdown" value="22" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="6" />
           <entry key="YAML" value="5" />
@@ -51,15 +52,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="223" />
-          <entry key="md" value="615" />
+          <entry key="html" value="224" />
+          <entry key="md" value="950" />
           <entry key="yml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="223" />
-          <entry key="Markdown" value="615" />
+          <entry key="HTML" value="224" />
+          <entry key="Markdown" value="950" />
           <entry key="YAML" value="9" />
         </counts>
       </usages-collector>
@@ -119,15 +120,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="43" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -148,21 +140,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="171" selection-start-line="9" selection-start-column="171" selection-end-line="9" selection-end-column="171" />
+            <state relative-caret-position="315">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/team.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="720">
+                <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md">
+        <entry file="file://$PROJECT_DIR$/assets/2018-02-14-information-for-sponsors.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="163" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="107" lean-forward="true" selection-start-line="13" selection-start-column="107" selection-end-line="13" selection-end-column="107" />
               </first_editor>
               <second_editor />
             </state>
@@ -195,7 +199,6 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/pages/team.md" />
         <option value="$PROJECT_DIR$/_includes/section-four.html" />
         <option value="$PROJECT_DIR$/pages/schedule.md" />
         <option value="$PROJECT_DIR$/_includes/section-one.html" />
@@ -205,6 +208,7 @@
         <option value="$PROJECT_DIR$/pages/hackweek.md" />
         <option value="$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md" />
         <option value="$PROJECT_DIR$/_includes/section-three.html" />
+        <option value="$PROJECT_DIR$/pages/team.md" />
       </list>
     </option>
   </component>
@@ -290,6 +294,9 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$" />
@@ -1020,21 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/team.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret line="87" column="6" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1129,16 +1121,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="163" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section-four.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1146,10 +1128,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/2018-02-14-information-for-sponsors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="107" lean-forward="true" selection-start-line="13" selection-start-column="107" selection-end-line="13" selection-end-column="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="171" selection-start-line="9" selection-start-column="171" selection-end-line="9" selection-end-column="171" />
+        <state relative-caret-position="315">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/team.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret line="87" column="6" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="720">
+            <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -4,28 +4,28 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description:
 team:
-  - - name: Anthony Arendt
+  - - name: Nicoleta Cristea
+      title: Research Scientist
+      affiliate: eScience & Civil and Environmental Engineering
+      image_url: /assets/images/ncristea.png
+      github_user: NCristea
+
+    - name: Christina Bandaragoda
+      title: Senior Research Scientist
+      affiliate: eScience & UW-IT
+      image_url: https://geohackweek.github.io/ghw2017/images/6199513.jpeg
+      github_user: robfatland
+
+    - name: Anthony Arendt
       title: Principal Research Scientist
       affiliate: eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
 
-    - name: Rob Fatland
-      title: UW Cloud Czar for Research
-      affiliate: eScience & UW-IT
-      image_url: https://geohackweek.github.io/ghw2017/images/6199513.jpeg
-      github_user: robfatland
-
-    - name: Landung "Don" Setiawan
-      title: Environmental Data Specialist
-      affiliate: APL
-      image_url: https://geohackweek.github.io/ghw2017/images/17802172.jpeg
-      github_user: lsetiawan
-
-  - - name: Amanda Tan
-      title: Data Scientist
-      affiliate: eScience & UW-IT
-      image_url: https://geohackweek.github.io/ghw2017/images/Amanda-Tan-300x300.jpg
+  - - name: Bart Nijssen
+      title: Professor
+      affiliate: Civil and Environmental Engineering
+      image_url: /assets/images/bart_nijssen.png
       github_user: cloudmaven
 
     - name: Rachael Murray
@@ -38,7 +38,18 @@ team:
       affiliate: APL
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
-
+      
+ - - name: Lily McGill
+      title: PhD Student
+      affiliate: College of Engineering
+      image_url: /assets/images/lily-portrait-200x300.jpg
+      
+    - name: Jim Phuong
+      title: PhD Student
+      affiliate: Biomedical Informatics and Medical Education
+      image_url: /assets/images/jim_phuong.jpeg
+      github_user: jphuong
+<!--
   - - name: Joe Hamman
       title: Postdoctoral Researcher
       affiliate: NCAR
@@ -110,3 +121,4 @@ team:
       github_user: shaystrong
     
 ---
+-->
