@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: Schedule
+description: Schedule TBD 
 ---
 # Schedule coming soon
 
@@ -22,5 +22,5 @@ description: Schedule
 
 ## Example schedules from related hack events:
 
-* [Geohackweek 2018] (https://geohackweek.github.io/schedule.html)
-* [Oceanhackweek 2018] (https://oceanhackweek.github.io/schedule.html)
+*  <a href="https://geohackweek.github.io/schedule.html/">Geohackweek 2018 </a>
+*  <a href="https://oceanhackweek.github.io/schedule.html/">Oceanhackweek 2018 </a>
