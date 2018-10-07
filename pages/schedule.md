@@ -22,5 +22,5 @@ description: Schedule TBD
 
 ## Example schedules from related hack events:
 
-*  <a href="https://geohackweek.github.io/schedule.html/">Geohackweek 2018 </a>
-*  <a href="https://oceanhackweek.github.io/schedule.html/">Oceanhackweek 2018 </a>
+*  <a href="https://geohackweek.github.io/schedule.html">Geohackweek 2018 </a>
+*  <a href="https://oceanhackweek.github.io/schedule.html">Oceanhackweek 2018 </a>
