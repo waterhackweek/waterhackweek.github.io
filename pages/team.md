@@ -41,7 +41,7 @@ team:
       
   - - name: Lily McGill
       title: PhD Student
-      affiliate: College of Engineering
+      affiliate: UW Quantitative Ecology & Resource Management
       image_url: /assets/images/lily-portrait-200x300.jpg
         
     - name: Jim Phuong
@@ -49,5 +49,21 @@ team:
       affiliate: Biomedical Informatics and Medical Education
       image_url: /assets/images/jim_phuong.jpeg
       github_user: jphuong
+      
+    - name: Julia Hart
+      title: Communications Specialist
+      affiliate: UW Freshwater Initiative
+      image_url: /assets/images/Julia_Hart.jpg
+      
+  - - name: Anthony Castronova
+      title: Hydrologic Scientist
+      affiliate: CUAHSI
+      image_url: /assets/images/TonyCa.jpg
+      github_user: Castronova
+        
+    - name: Elizabeth Tran
+      title: Community Relations Specialist
+      affiliate: CUAHSI
+      image_url: /assets/images/LizTran.jpg   
 ---
  
