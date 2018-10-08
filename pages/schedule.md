@@ -8,10 +8,10 @@ description: Schedule TBD
 
 ## Learning resources:
 
-<a href="https://waterhackweek.github.io/wiki/learning_resources.html">Tutorials</a>
+* <a href="https://waterhackweek.github.io/wiki/learning_resources.html">Online tutorials</a>
 
 
-## Tentative schedule, topics may include: 
+## Topics may include: 
 
 * Version control (Git, Github)
 * Hydroshare CUAHSI Hydrologic Information System (JupyterHub CI)
@@ -25,7 +25,7 @@ description: Schedule TBD
 * Working with spatial datasets
 * Google Earth Engine 
 
-## Example schedules (with tutorials) from related hack events:
+## Example schedules from related hack events:
 
 *  <a href="https://geohackweek.github.io/schedule.html">Geohackweek 2018</a>
 *  <a href="https://oceanhackweek.github.io/schedule.html">Oceanhackweek 2018</a>

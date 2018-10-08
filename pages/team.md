@@ -54,6 +54,7 @@ team:
       title: Communications Specialist
       affiliate: UW Freshwater Initiative
       image_url: /assets/images/Julia_Hart.jpg
+      github_user: jhart6
       
   - - name: Anthony Castronova
       title: Hydrologic Scientist
