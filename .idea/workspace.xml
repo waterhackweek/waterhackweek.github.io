@@ -50,7 +50,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="225" />
-          <entry key="md" value="1756" />
+          <entry key="md" value="1779" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
         </counts>
@@ -58,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="225" />
-          <entry key="Markdown" value="1756" />
+          <entry key="Markdown" value="1779" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
         </counts>
@@ -110,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+              <first_editor relative-caret-position="390">
+                <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -1138,8 +1138,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="61" selection-start-line="24" selection-start-column="61" selection-end-line="24" selection-end-column="61" />
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
