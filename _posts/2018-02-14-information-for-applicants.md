@@ -24,4 +24,3 @@ To best benefit from the program, participants are expected to have some experie
 * Access to an interactive library of custom tutorials
 * Dedicated time and space to explore new ideas.
              
-             If you would like to register for Waterhackweek click <a href="https://form.jotform.com/82396990821165/">here</a> <br>.
