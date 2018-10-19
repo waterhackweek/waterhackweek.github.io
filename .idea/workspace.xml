@@ -50,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="314" />
+          <entry key="html" value="317" />
           <entry key="md" value="1779" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -58,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="314" />
+          <entry key="HTML" value="317" />
           <entry key="Markdown" value="1779" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -92,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
+            <state relative-caret-position="840">
+              <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -1020,8 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
+        <state relative-caret-position="840">
+          <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
         </state>
       </provider>
     </entry>
