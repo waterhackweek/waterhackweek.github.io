@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/section-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/section-one.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/section-three.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/section-three.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="308" />
+          <entry key="html" value="314" />
           <entry key="md" value="1779" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -58,7 +58,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="308" />
+          <entry key="HTML" value="314" />
           <entry key="Markdown" value="1779" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -80,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/section-one.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -89,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+            <state relative-caret-position="735">
+              <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -211,7 +211,6 @@
         <option value="$PROJECT_DIR$/_includes/section-four.html" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
         <option value="$PROJECT_DIR$/_posts/2018-02-14-information-for-sponsors.md" />
-        <option value="$PROJECT_DIR$/_includes/section-three.html" />
         <option value="$PROJECT_DIR$/pages/hackweek.md" />
         <option value="$PROJECT_DIR$/pages/schedule.md" />
         <option value="$PROJECT_DIR$/pages/team.md" />
@@ -219,6 +218,7 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/_posts/2018-02-14-information-for-applicants.md" />
         <option value="$PROJECT_DIR$/_includes/section-one.html" />
+        <option value="$PROJECT_DIR$/_includes/section-three.html" />
       </list>
     </option>
   </component>
@@ -936,13 +936,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/cta.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section-two.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1022,6 +1015,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
         </state>
       </provider>
     </entry>
