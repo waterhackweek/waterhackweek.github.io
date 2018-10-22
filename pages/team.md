@@ -65,6 +65,11 @@ team:
     - name: Elizabeth Tran
       title: Community Relations Specialist
       affiliate: CUAHSI
-      image_url: /assets/images/LizTran.jpg   
+      image_url: /assets/images/LizTran.jpg
+      
+    - name: Jill Klein
+      title: Grant manager
+      affiliate: Civil and Environmental Engineering
+      image_url: /assets/images/Jill_klein.png      
 ---
  
