@@ -70,6 +70,6 @@ team:
     - name: Jill Klein
       title: Grant manager
       affiliate: Civil and Environmental Engineering
-      image_url: /assets/images/Jill_klein.png            
+      image_url: /assets/images/Jill_Klein.png            
 ---
  
