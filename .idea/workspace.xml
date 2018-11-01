@@ -54,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="467" />
+          <entry key="html" value="468" />
           <entry key="md" value="1818" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
@@ -63,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="467" />
+          <entry key="HTML" value="468" />
           <entry key="Markdown" value="1818" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
@@ -103,11 +103,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="9" column="190" selection-start-line="9" selection-start-column="190" selection-end-line="9" selection-end-column="190" />
+            <state relative-caret-position="540">
+              <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#1;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1055,11 +1055,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/section-three.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="9" column="190" selection-start-line="9" selection-start-column="190" selection-end-line="9" selection-end-column="190" />
+        <state relative-caret-position="540">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#1;n#a#0;n#p#1;n#header#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
