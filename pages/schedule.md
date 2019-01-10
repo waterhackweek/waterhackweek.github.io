@@ -8,14 +8,17 @@ description: Schedule TBD
 
 ## Cybertraining seminars:
 
-* 1  Hydroshare and community data sharing tools - Jan 17 2019
-* 2  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019  
-* 3  Visualization of water datasets - Jan 31 2019
-* 4  Data access and time-series statistics - Feb 7 2019
-* 5  Workflows for gridded climate datasets - Feb 14 2019
-* 6  Version control git/Github - Feb 21 2019
-* 7  Landlab modeling framework and use cases - Feb 28 2019
-* 8  Tools for building Apps: Thethys -  Mar 7 2019
+Please  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">register</a> to attend the seminars.
+You can find more infromation abut the CUAHSI seminar series <a href="https://www.cuahsi.org/education/cyberseminars/">here</a> . 
+
+*  Hydroshare and community data sharing tools - Jan 17 2019
+*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019  
+*  Visualization of water datasets - Jan 31 2019
+*  Data access and time-series statistics - Feb 7 2019
+*  Workflows for gridded climate datasets - Feb 14 2019
+*  Version control git/Github - Feb 21 2019
+*  Landlab modeling framework and use cases - Feb 28 2019
+*  ools for building Apps: Thethys -  Mar 7 2019
 
 ## Other Learning resources:
 
