@@ -4,9 +4,20 @@ title: Schedule
 permalink: schedule.html
 description: Schedule TBD 
 ---
-# Schedule coming soon
+# Event schedule coming soon
 
-## Learning resources:
+## Cybertraining seminars:
+
+* 1  Hydroshare and community data sharing tools - Jan 17 2019
+* 2  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019  
+* 3  Visualization of water datasets - Jan 31 2019
+* 4  Data access and time-series statistics - Feb 7 2019
+* 5  Workflows for gridded climate datasets - Feb 14 2019
+* 6  Version control git/Github - Feb 21 2019
+* 7  Landlab modeling framework and use cases - Feb 28 2019
+* 8  Tools for building Apps: Thethys -  Mar 7 2019
+
+## Other Learning resources:
 
 * <a href="https://waterhackweek.github.io/wiki/learning_resources.html">Online tutorials</a>
 
