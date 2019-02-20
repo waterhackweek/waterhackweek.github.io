@@ -11,11 +11,11 @@ description: Schedule TBD
 Please  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">register</a> to attend the seminars.
 You can find more infromation abut the CUAHSI seminar series <a href="https://www.cuahsi.org/education/cyberseminars/">here</a> . 
 
-*  Hydroshare and community data sharing tools - Jan 17 2019  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>
-*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019   <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>
-*  Visualization of water datasets - Jan 31 2019  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
-*  Data access and time-series statistics - Feb 7 2019 <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
-*  Workflows for gridded climate datasets - Feb 14 2019 <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
+*  Hydroshare and community data sharing tools - Jan 17 2019  <a href="https://youtu.be/foRBVEKgNZ0">video</a>
+*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019   <a href="https://youtu.be/SWzw4hNat8I">video</a>
+*  Visualization of water datasets - Jan 31 2019  <a href="https://youtu.be/BrolsSGMSVU">video</a>  <a href="https://github.com/waterhackweek/visualization">Github</a>
+*  Data access and time-series statistics - Feb 7 2019 <a href="https://youtu.be/uQXuS1AB2M0">video</a>  <a href="https://github.com/waterhackweek/tsdata_access">Github</a>
+*  Workflows for gridded climate datasets - Feb 14 2019 <a href="https://youtu.be/Ls6Huc2JQaM">video</a>  <a href="https://github.com/waterhackweek/gridded_data">Github</a>
 *  Version control git/Github - Feb 21 2019
 *  Landlab modeling framework and use cases - Feb 28 2019
 *  Tools for building Apps: Thethys -  Mar 7 2019
