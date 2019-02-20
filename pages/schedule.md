@@ -11,21 +11,24 @@ description: Schedule TBD
 Please  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">register</a> to attend the seminars.
 You can find more infromation abut the CUAHSI seminar series <a href="https://www.cuahsi.org/education/cyberseminars/">here</a> . 
 
-*  Hydroshare and community data sharing tools - Jan 17 2019
-*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019  
-*  Visualization of water datasets - Jan 31 2019
-*  Data access and time-series statistics - Feb 7 2019
-*  Workflows for gridded climate datasets - Feb 14 2019
+*  Hydroshare and community data sharing tools - Jan 17 2019  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>
+*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019   <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>
+*  Visualization of water datasets - Jan 31 2019  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
+*  Data access and time-series statistics - Feb 7 2019 <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
+*  Workflows for gridded climate datasets - Feb 14 2019 <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">video</a>  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">Github</a>
 *  Version control git/Github - Feb 21 2019
 *  Landlab modeling framework and use cases - Feb 28 2019
-*  ools for building Apps: Thethys -  Mar 7 2019
+*  Tools for building Apps: Thethys -  Mar 7 2019
 
 ## Other Learning resources:
 
 * <a href="https://waterhackweek.github.io/wiki/learning_resources.html">Online tutorials</a>
 
+## Pre-event tutorial
 
-## Topics may include: 
+Please work through this <a href ="https://waterhackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of Waterhackweek!
+
+## Tentative schedule 
 
 * Version control (Git, Github)
 * Hydroshare CUAHSI Hydrologic Information System (JupyterHub CI)
@@ -39,7 +42,3 @@ You can find more infromation abut the CUAHSI seminar series <a href="https://ww
 * Working with spatial datasets
 * Google Earth Engine 
 
-## Example schedules from related hack events:
-
-*  <a href="https://geohackweek.github.io/schedule.html">Geohackweek 2018</a>
-*  <a href="https://oceanhackweek.github.io/schedule.html">Oceanhackweek 2018</a>
