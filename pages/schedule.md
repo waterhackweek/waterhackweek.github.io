@@ -16,8 +16,8 @@ You can find more infromation abut the CUAHSI seminar series <a href="https://ww
 *  Visualization of water datasets - Jan 31 2019  <a href="https://youtu.be/BrolsSGMSVU">video</a>  <a href="https://github.com/waterhackweek/visualization">Github</a>
 *  Data access and time-series statistics - Feb 7 2019 <a href="https://youtu.be/uQXuS1AB2M0">video</a>  <a href="https://github.com/waterhackweek/tsdata_access">Github</a>
 *  Workflows for gridded climate datasets - Feb 14 2019 <a href="https://youtu.be/Ls6Huc2JQaM">video</a>  <a href="https://github.com/waterhackweek/gridded_data">Github</a>
-*  Version control git/Github - Feb 21 2019
-*  Landlab modeling framework and use cases - Feb 28 2019
+*  Version control git/Github - Feb 21 2019 <a href="https://youtu.be/Bc5BO9gPC9w">video</a>  <a href="https://github.com/waterhackweek/git_practice/blob/master/Git-Waterhackweek-Slides.pdf">Slides</a>
+*  Landlab modeling framework and use cases - Feb 28 2019 <a href="https://youtu.be/m10UA5_gsuM">video</a>  <a href="https://github.com/waterhackweek/Landlab_intro">Github</a>
 *  Tools for building Apps: Thethys -  Mar 7 2019
 
 ## Other Learning resources:
