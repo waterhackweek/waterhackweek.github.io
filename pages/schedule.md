@@ -58,7 +58,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>8:30 - 9:15 AM</td>
+<td>8:30 AM - 9:15 AM</td>
 
 <td>Welcome to Waterhackweek</td>
 
@@ -68,7 +68,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>9:15 - 10:30 AM</td>
+<td>9:15 AM - 10:30 AM</td>
 
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare Tools Part I </a></td>
@@ -81,7 +81,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:30 - 11:00 AM</td>
+<td>10:30 AM - 11:00 AM</td>
 
 <td>Icebreaker activity and coffee break</td>
 
@@ -193,7 +193,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:00 - 10:30 AM</td>
+<td>10:00 AM - 10:30 AM</td>
 
 <td>Coffee Break</td>
 
@@ -240,7 +240,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> 5:00 PM - 7:00 PM (optional)</td>
+<td>5:00 PM - 7:00 PM (optional)</td>
 
 <td>Hackathon Sessions South Campus Center open until 7 PM</td>
 
@@ -270,7 +270,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> 9:00 AM - 9:45 AM</td>
+<td>9:00 AM - 9:45 AM</td>
 
 <td> Cloud computing workflows</td>
 
@@ -280,7 +280,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr> 
 
-<td> 10:00 AM - 10:15 PM </td>
+<td>10:00 AM - 10:15 PM</td>
 
 <td>Coffee break</td>
 
@@ -290,7 +290,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr> 
 
-<td> 10:15 AM - 12:00 PM </td>
+<td>10:15 AM - 12:00 PM</td>
 
 <td>Google Earth Engine</td>
 
@@ -299,7 +299,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </tr>
 <tr>
 
-<td>12 PM to 1:00 PM</td>
+<td>12:00 PM - 1:00 PM</td>
 
 <td>Lunch</td>
 
@@ -309,7 +309,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr> 
 
-<td> 1:00 PM - 2:00 PM </td>
+<td>1:00 PM - 2:00 PM</td>
 
 <td>Google Earth Engine</td>
 
@@ -349,7 +349,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> 5:00 PM - 7:00 PM (optional)</td>
+<td>5:00 PM - 7:00 PM (optional)</td>
 
 <td>Hackathon Sessions South Campus Center open until 7 PM</td>
 
@@ -389,7 +389,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:15 - 10:30 AM</td>
+<td>10:15 AM - 10:30 AM</td>
 
 <td>Coffee Break</td>
 
@@ -399,7 +399,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:30 - 12:00 AM</td>
+<td>10:30 AM - 12:00 AM</td>
 
 <td>Landlab</td>
 
@@ -472,7 +472,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:15 - 10:45 AM</td>
+<td>10:15 AM - 10:45 AM</td>
 
 <td>Coffee Break</td>
 
@@ -482,7 +482,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:45 AM - 12:00 PM </td>
+<td>10:45 AM - 12:00 PM</td>
 
 <td>Open tutorial/Project wrap-up</td>
 
