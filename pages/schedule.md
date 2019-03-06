@@ -315,9 +315,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>2:00 PM - 2:15 PM</td>
+<td>2:00 PM - 2: PM</td>
 
-<td>Group photo</td>
+<td>Lunch</td>
 
 <td></td>
 
