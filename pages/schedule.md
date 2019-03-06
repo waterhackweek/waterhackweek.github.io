@@ -243,11 +243,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td> South Campus Center open until 7 PM (optional)</td>
 
 <td>Hackathon Sessions</td>
+
 <td>Everyone</td>
 
 </tr>
 
-<tr>
 </tbody>
 
 </table>
