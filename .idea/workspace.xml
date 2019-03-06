@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/schedule.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,7 +61,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="494" />
-          <entry key="md" value="2992" />
+          <entry key="md" value="3032" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -71,7 +70,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="494" />
-          <entry key="Markdown" value="2992" />
+          <entry key="Markdown" value="3032" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -102,8 +101,8 @@
         <entry file="file://$PROJECT_DIR$/pages/schedule.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="765">
-                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <first_editor relative-caret-position="-311">
+                <caret line="454" lean-forward="true" selection-start-line="454" selection-end-line="454" />
               </first_editor>
               <second_editor />
             </state>
@@ -1076,8 +1075,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <first_editor relative-caret-position="-311">
+            <caret line="454" lean-forward="true" selection-start-line="454" selection-end-line="454" />
           </first_editor>
           <second_editor />
         </state>

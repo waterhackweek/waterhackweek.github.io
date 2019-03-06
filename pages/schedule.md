@@ -238,6 +238,12 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>Everyone</td>
 </tr>
 
+<tr>
+
+<td> South Campus Center open until 7 PM (optional)</td>
+
+<td>Hackathon Sessions</td>
+<td>Everyone</td>
 </tbody>
 
 </table>
@@ -260,7 +266,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> 8:30 AM - 9:45 AM</td>
+<td> 9:00 AM - 9:45 AM</td>
 
 <td> Cloud computing workflows</td>
 
@@ -270,9 +276,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr> 
 
-<td> 10:15 AM - 12:00 PM </td>
+<td> 10:00 AM - 10:15 PM </td>
 
-<td>Small break</td>
+<td>Coffee break</td>
+
+<td>Everyone</td>
 
 </tr>
 
@@ -289,7 +297,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:45 to 10:15 AM</td>
 
-<td>Coffee Break</td>
+<td>Lunch</td>
 
 <td></td>
 
@@ -297,21 +305,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr> 
 
-<td> 10:15 AM - 12:00 PM </td>
+<td> 1:00 PM - 2:00 PM </td>
 
 <td>Google Earth Engine</td>
 
 <td>Matthew Bonnema</td>
-
-</tr>
-
-<tr>
-
-<td>12:00 PM - 1:00 PM</td>
-
-<td>Lunch</td>
-
-<td></td>
 
 </tr>
 
