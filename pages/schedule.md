@@ -315,6 +315,10 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
+</tr>
+
+<tr>
+
 <td>1:00 - 1:15 PM</td>
 
 <td>Group Photo </td>
