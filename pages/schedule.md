@@ -240,9 +240,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> South Campus Center open until 7 PM (optional)</td>
+<td> 5:00 PM - 7:00 PM (optional)</td>
 
-<td>Hackathon Sessions</td>
+<td>Hackathon Sessions South Campus Center open until 7 PM</td>
 
 <td>Everyone</td>
 
@@ -299,7 +299,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </tr>
 <tr>
 
-<td>9:45 to 10:15 AM</td>
+<td>12 PM to 1:00 PM</td>
 
 <td>Lunch</td>
 
@@ -319,7 +319,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>1:00 - 1:15 PM</td>
+<td>2:00 - 2:15 PM</td>
 
 <td>Group Photo </td>
 
@@ -329,7 +329,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>1:15 PM - 4:30 PM</td>
+<td>2:15 PM - 4:30 PM</td>
 
 <td>Project Work</td>
 
@@ -349,9 +349,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td> South Campus Center open until 7 PM (optional)</td>
+<td> 5:00 PM - 7:00 PM (optional)</td>
 
-<td>Hackathon Sessions</td>
+<td>Hackathon Sessions South Campus Center open until 7 PM</td>
 
 <td></td>
 
@@ -399,7 +399,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:30 - 11:45 AM</td>
+<td>10:30 - 12:00 AM</td>
 
 <td>Landlab</td>
 
@@ -422,6 +422,8 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>1:00 PM - 3:00 PM</td>
 
 <td>Project Work</td>
+
+<td> Everyone </td>
 
 <td></td>
 
@@ -459,7 +461,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>9:00 AM - 10:00 AM </td>
+<td>9:00 AM - 10:15 AM </td>
 
 <td>Steps to reproducible reserch</td>
 
@@ -470,7 +472,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:00 - 10:30 AM</td>
+<td>10:15 - 10:45 AM</td>
 
 <td>Coffee Break</td>
 
@@ -480,7 +482,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>10:30 AM - 12:00 PM </td>
+<td>10:45 AM - 12:00 PM </td>
 
 <td>Open tutorial/Project wrap-up</td>
 
