@@ -75,7 +75,7 @@ team:
   - - name: Veronica Smith
       title: Education Evaluator
       affiliate: data2insight
-      image_url: /assets/images/TVS_300_300.jpg
+      image_url: /assets/images/VS_300_300.jpg
         
     - name: Oriana Chegwidden
       title: PhD student
@@ -85,7 +85,7 @@ team:
     - name: Diana Gergel
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/diana_gergel.png 
+      image_url: /assets/images/diana_gergel.jpg 
       
   - - name: Yifan Cheng
       title: PhD student
@@ -100,6 +100,6 @@ team:
     - name: Matthew Bonnema
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/Matthew_Bonnema_cropped_web.png                            
+      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg                           
 ---
  
