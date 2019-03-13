@@ -100,6 +100,36 @@ team:
     - name: Matthew Bonnema
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg                           
+      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg
+      
+  - - name: Sai S. Nudurupati
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/ssnudurupati_1484086929_94.jpg
+        
+    - name: Amanda Manaster
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/Amanda-Manaster-1024x678.jpg
+      
+    - name: Yixin Mao
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/yixin_mao.jpeg 
+      
+  - - name: Shay Strong 
+      title: Director of Data Science and Machine Learning
+      affiliate: Eagleview
+      image_url: /assets/images/shay.jpg
+        
+    - name: Valentina Staneva
+      title: Data Scientist
+      affiliate: University of Washington
+      image_url: /assets/images/Valentina_Staneva_sized.jpg
+      
+    - name: Tony Cannistra
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/TonyCa.jpg                                          
 ---
  
