@@ -114,7 +114,17 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>1:00 PM to 2:00 PM</td>
+<td>1:00 PM to 2:15 PM</td>
+
+<td>Project Introductions and Pitching</td>
+
+<td>Valentina Staneva</td>
+
+</tr>
+
+<tr>
+
+<td>2:15 PM - 2:30 PM</td>
 
 <td>
 
@@ -124,15 +134,6 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </ul>
 </td>
 
-<td>Valentina Staneva</td>
-
-</tr>
-
-<tr>
-
-<td>2:00 PM - 2:30 PM</td>
-
-<td>Project Introductions and Pitching</td>
 
 <td>Everyone</td>
 
@@ -220,10 +221,18 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td></td>
 
 </tr>
-
 <tr>
 
-<td>1:00 PM - 1:30 PM</td>
+<td>1:00 - 1:15 PM</td>
+
+<td>Group Photo </td>
+
+<td> Everyone </td>
+
+</tr>
+<tr>
+
+<td>1:15 PM - 1:45 PM</td>
 
 <td>Project Check-in</td>
 
@@ -317,19 +326,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 </tr>
 
-<tr>
 
-<td>2:00 - 2:15 PM</td>
-
-<td>Group Photo </td>
-
-<td> Everyone </td>
-
-</tr>
 
 <tr>
 
-<td>2:15 PM - 4:30 PM</td>
+<td>2:00 PM - 4:30 PM</td>
 
 <td>Project Work</td>
 
@@ -504,7 +505,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:00 PM - 1:30 PM</td>
 
-<td>Waterhahackweek survey</td>
+<td>Waterhackweek survey</td>
 
 <td></td>
 

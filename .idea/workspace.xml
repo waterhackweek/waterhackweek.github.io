@@ -61,7 +61,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="494" />
-          <entry key="md" value="3120" />
+          <entry key="md" value="3135" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -70,7 +70,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="494" />
-          <entry key="Markdown" value="3120" />
+          <entry key="Markdown" value="3135" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -101,8 +101,8 @@
         <entry file="file://$PROJECT_DIR$/pages/schedule.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="169">
-                <caret line="492" column="4" lean-forward="true" selection-start-line="492" selection-start-column="4" selection-end-line="492" selection-end-column="4" />
+              <first_editor relative-caret-position="802">
+                <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -1075,8 +1075,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="169">
-            <caret line="492" column="4" lean-forward="true" selection-start-line="492" selection-start-column="4" selection-end-line="492" selection-end-column="4" />
+          <first_editor relative-caret-position="802">
+            <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
