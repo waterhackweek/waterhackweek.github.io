@@ -70,6 +70,36 @@ team:
     - name: Jill Klein
       title: Grant manager
       affiliate: Civil and Environmental Engineering
-      image_url: /assets/images/Jill_Klein.png            
+      image_url: /assets/images/Jill_Klein.png 
+      
+  - - name: Veronica Smith
+      title: Education Evaluator
+      affiliate: data2insight
+      image_url: /assets/images/TVS-300x300.jpg
+        
+    - name: Oriana Chegwidden
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/Oriana Chegwidden Headshot_cropped.jpg
+      
+    - name: Diana Gergel
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/diana_gergel.png 
+      
+  - - name: Yifan Cheng
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/yifan_cheng.jpg
+        
+    - name: Andrew Bennett
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/andrew_bennett.jpg
+      
+    - name: Matthew Bonnema
+      title: PhD student
+      affiliate: University of Washington
+      image_url: /assets/images/Matthew Bonnema_cropped_web.png                            
 ---
  
