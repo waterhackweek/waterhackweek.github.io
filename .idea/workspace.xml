@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/Matthew Bonnema_cropped_web.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/VS-300x300.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/team.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -61,7 +63,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="494" />
-          <entry key="md" value="3268" />
+          <entry key="md" value="3272" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -70,7 +72,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="494" />
-          <entry key="Markdown" value="3268" />
+          <entry key="Markdown" value="3272" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -104,8 +106,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="793">
-                <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+              <first_editor relative-caret-position="508">
+                <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -1079,8 +1081,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="793">
-            <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <first_editor relative-caret-position="508">
+            <caret line="77" column="40" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
