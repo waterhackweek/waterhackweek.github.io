@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: Schedule TBD 
+description: Schedule of events in chronological order 
 ---
 # Event schedule coming soon
 
