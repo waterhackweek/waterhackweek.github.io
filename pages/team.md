@@ -130,6 +130,21 @@ team:
     - name: Tony Cannistra
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/TonyCa.jpg                                          
+      image_url: /assets/images/Tony-Cannistra.jpg
+      
+  - - name: Amanda Tan 
+      title: Data Scientist
+      affiliate: University of Washington
+      image_url: /assets/images/Amanda-Tan.jpg
+        
+    - name: 
+      title: 
+      affiliate: 
+      image_url: 
+      
+    - name: 
+      title: 
+      affiliate: 
+      image_url:                                                 
 ---
  

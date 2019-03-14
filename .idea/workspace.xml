@@ -61,7 +61,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="494" />
-          <entry key="md" value="3449" />
+          <entry key="md" value="3519" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="24" />
@@ -70,7 +70,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="494" />
-          <entry key="Markdown" value="3449" />
+          <entry key="Markdown" value="3519" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="24" />
@@ -93,7 +93,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="464">
-                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -104,8 +104,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="845">
-                <caret line="132" column="41" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
+              <first_editor relative-caret-position="846">
+                <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,7 +159,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="180">
-                <caret line="12" column="21" lean-forward="true" selection-start-line="11" selection-end-line="13" selection-end-column="107" />
+                <caret line="12" column="21" selection-start-line="11" selection-end-line="13" selection-end-column="107" />
               </first_editor>
               <second_editor />
             </state>
@@ -1032,7 +1032,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
-            <caret line="12" column="21" lean-forward="true" selection-start-line="11" selection-end-line="13" selection-end-column="107" />
+            <caret line="12" column="21" selection-start-line="11" selection-end-line="13" selection-end-column="107" />
           </first_editor>
           <second_editor />
         </state>
@@ -1065,7 +1065,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="464">
-            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
@@ -1079,8 +1079,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="845">
-            <caret line="132" column="41" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
+          <first_editor relative-caret-position="846">
+            <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
