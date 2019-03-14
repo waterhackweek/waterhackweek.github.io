@@ -113,8 +113,8 @@ team:
       image_url: /assets/images/Amanda-Manaster-1024x678.jpg
       
     - name: Yixin Mao
-      title: PhD student
-      affiliate: University of Washington
+      title: Data Scientist
+      affiliate: Salesforce
       image_url: /assets/images/yixin_mao.jpeg 
       
   - - name: Shay Strong 
