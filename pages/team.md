@@ -137,10 +137,10 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Tan.jpg
         
-    - name: 
-      title: 
-      affiliate: 
-      image_url: 
+    - name: Rohit Khattar
+      title: PhD student
+      affiliate: Brigham Young University 
+      image_url: /assets/images/Rohit.jpg
       
     - name: 
       title: 
