@@ -118,7 +118,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Introductions and Pitching</td>
 
-<td>Valentina Staneva</td>
+<td>Everyone</td>
 
 </tr>
 
@@ -135,7 +135,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </td>
 
 
-<td>Everyone</td>
+<td>Valentina Staneva</td>
 
 </tr>
 
