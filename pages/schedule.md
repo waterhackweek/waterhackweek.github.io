@@ -301,7 +301,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:15 AM - 12:00 PM</td>
 
-<td>Google Earth Engine</td>
+<td>Google Earth Engine <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
 
 <td>Matthew Bonnema</td>
 
