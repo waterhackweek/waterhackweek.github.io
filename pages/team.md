@@ -146,11 +146,6 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
-      
-    - name: Erkan Istanbulluoglu
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Scott_Black.jpg
      
       
     - name: Jacob Deppen
