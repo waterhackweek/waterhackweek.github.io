@@ -281,7 +281,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:00 AM - 9:45 AM</td>
 
-<td> Cloud computing workflows <a href"https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
+<td> Cloud computing workflows <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
 
 <td> Amanda Tan </td>
 
