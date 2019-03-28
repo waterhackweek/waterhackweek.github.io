@@ -186,7 +186,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 -->
-<td>Metsim - generating meteorological data  https://github.com/waterhackweek/MetSim-tutorial</td>
+<td>Metsim - generating meteorological data  <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
 
 <td>Andrew Bennett</td>
 
