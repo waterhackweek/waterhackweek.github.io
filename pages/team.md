@@ -147,11 +147,11 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
       
-    - name: Scott Black
+    - name: Erkan Istanbulluoglu
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/Scott_Black.jpg
-    
+     
       
     - name: Jacob Deppen
       title: Organizer
@@ -177,6 +177,12 @@ team:
       title: PhD student
       affiliate: Brigham Young University 
       image_url: /assets/images/Rohit.jpg
+      
+      
+   - name: Scott Black
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Scott_Black.jpg
       
      
       
