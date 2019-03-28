@@ -136,11 +136,6 @@ team:
       title: Data Scientist
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Tan.jpg
-        
-    - name: Rohit Khattar
-      title: PhD student
-      affiliate: Brigham Young University 
-      image_url: /assets/images/Rohit.jpg
       
     - name: Brandi James
       title: Organizer
@@ -155,7 +150,7 @@ team:
     - name: Scott Black
       title: Organizer
       affiliate: University of Washington
-      image_url: /assets/images/Scott_Black.jpeg
+      image_url: /assets/images/Scott_Black.jpg
     
       
     - name: Jacob Deppen
@@ -177,6 +172,11 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/owen_freed.jpeg
+      
+    - name: Rohit Khattar
+      title: PhD student
+      affiliate: Brigham Young University 
+      image_url: /assets/images/Rohit.jpg
       
      
       
