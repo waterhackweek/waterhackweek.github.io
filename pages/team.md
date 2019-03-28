@@ -145,6 +145,30 @@ team:
     - name: Brandi James
       title: Organizer
       affiliate: University of Washington
-      image_url: /assets/images/Brandi_James.jpeg                        
+      image_url: /assets/images/Brandi_James.jpeg
+      
+    - name: Jacob Deppen
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/jacob_Deppen.jpg
+      
+    - name: Landung (Don) Setiawan
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
+      
+    - name: Madhavi Srinivasan
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Madhavi_Srinivasan.jpg
+      
+    - name: Owen Freed
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/owen_freed.jpeg
+     
+    
+      
+      
 ---
  
