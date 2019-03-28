@@ -142,9 +142,9 @@ team:
       affiliate: Brigham Young University 
       image_url: /assets/images/Rohit.jpg
       
-    - name: 
-      title: 
-      affiliate: 
-      image_url:                                                 
+    - name: Brandi James
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Brandi_James.jpeg                        
 ---
  
