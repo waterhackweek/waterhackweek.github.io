@@ -147,6 +147,17 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Brandi_James.jpeg
       
+    - name: Jeff Keck
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Jeff_Keck.jpeg
+      
+    - name: Scott Black
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Scott_Black.jpeg
+    
+      
     - name: Jacob Deppen
       title: Organizer
       affiliate: University of Washington
@@ -166,6 +177,10 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/owen_freed.jpeg
+      
+     
+      
+    
      
     
       
