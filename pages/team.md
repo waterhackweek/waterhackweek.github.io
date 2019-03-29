@@ -4,187 +4,101 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description:
 team:
-  - - name: Nicoleta Cristea
-      title: Research Scientist
-      affiliate: eScience & Civil and Environmental Engineering
-      image_url: /assets/images/ncristea.png
-      github_user: NCristea
-
-   -  name: Christina Bandaragoda
-      title: Senior Research Scientist
-      affiliate: Civil and Environmental Engineering
-      image_url: /assets/images/ChristinaB.jpeg
-      github_user: ChristinaB
-
-   -  name: Anthony Arendt
+  - - name: Anthony Arendt
       title: Principal Research Scientist
       affiliate: eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
 
-  - - name: Bart Nijssen
-      title: Professor
-      affiliate: Civil and Environmental Engineering
-      image_url: /assets/images/bart_nijssen.jpg
-      github_user: bartnijssen
+    - name: Rob Fatland
+      title: UW Cloud Czar for Research
+      affiliate: eScience & UW-IT
+      image_url: https://geohackweek.github.io/ghw2017/images/6199513.jpeg
+      github_user: robfatland
 
-   -  name: Rachael Murray
+    - name: Landung "Don" Setiawan
+      title: Environmental Data Specialist
+      affiliate: APL
+      image_url: https://geohackweek.github.io/ghw2017/images/17802172.jpeg
+      github_user: lsetiawan
+
+  - - name: Amanda Tan
+      title: Data Scientist
+      affiliate: eScience & UW-IT
+      image_url: https://geohackweek.github.io/ghw2017/images/Amanda-Tan-300x300.jpg
+      github_user: cloudmaven
+
+    - name: Rachael Murray
       title: Program Specialist
       affiliate: eScience
       image_url: /assets/images/rachael.JPG
 
-   -  name: Emilio Mayorga
+    - name: Emilio Mayorga
       title: Research Scientist
       affiliate: APL
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
-      
-  - - name: Lily McGill
-      title: PhD Student
-      affiliate: UW Quantitative Ecology & Resource Management
-      image_url: /assets/images/lily-portrait-200x300.jpg
-        
-   -  name: Jim Phuong
-      title: PhD Student
-      affiliate: Biomedical Informatics and Medical Education
-      image_url: /assets/images/jim_phuong.jpeg
-      github_user: jphuong
-      
-   -  name: Julia Hart
-      title: Communications Specialist
-      affiliate: UW Freshwater Initiative
-      image_url: /assets/images/Julia_Hart.jpg
-      github_user: jhart6
-      
-  - - name: Anthony Castronova
-      title: Hydrologic Scientist
-      affiliate: CUAHSI
-      image_url: /assets/images/TonyCa.jpg
-      github_user: Castronova
-        
-   -  name: Elizabeth Tran
-      title: Community Relations Specialist
-      affiliate: CUAHSI
-      image_url: /assets/images/LizTran.jpg
-      
-   -  name: Jill Klein
-      title: Grant manager
+
+  - - name: Joe Hamman
+      title: Postdoctoral Researcher
+      affiliate: NCAR
+      image_url: https://geohackweek.github.io/ghw2017/images/jhamman.png
+      github_user: jhamman
+
+    - name: David Shean
+      title: Assistant Professor
       affiliate: Civil and Environmental Engineering
-      image_url: /assets/images/Jill_Klein.png 
+      image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
+      github_user: dshean
+
+    - name: Joachim Meyer
+      title: Graduate Student 
+      affiliate: University of Utah 
+      image_url: https://avatars2.githubusercontent.com/u/178649?s=400&v=4
+      github_user: jomey
+
+  - - name: Scott Henderson
+      title: Postdoctoral Fellow
+      affiliate: eScience & ESS
+      image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
+      github_user: scottyhq
+
+    - name: Catherine Kuhn
+      title: Doctoral Student
+      affiliate: School of Forest & Environmental Sciences
+      image_url: https://geohackweek.github.io/ghw2017/images/Catherine.jpeg
+      github_user: catherinekuhn
+
+    - name: Christina Bandaragoda
+      title: Research Scientist
+      affiliate: Civil and Environmental Engineering
+      image_url: https://avatars2.githubusercontent.com/u/4108369?s=400&v=4
+      github_user: ChristinaB
+
+  - - name: Ben Weinstein
+      title: Postdoctoral Fellow
+      affiliate: Oregon State University
+      image_url: https://geohackweek.github.io/ghw2017/images/1208492.jpeg
+      github_user: bw4sz
       
-  - - name: Veronica Smith
-      title: Education Evaluator
-      affiliate: data2insight
-      image_url: /assets/images/VS_300_300.jpg
-        
-   -  name: Oriana Chegwidden
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/Oriana Chegwidden Headshot_cropped.jpg
-      
-   -  name: Diana Gergel
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/diana_gergel.jpg 
-      
-  - - name: Yifan Cheng
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/yifan_cheng.jpg
-        
-   -  name: Andrew Bennett
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/andrew_bennett.jpg
-      
-   -  name: Matthew Bonnema
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg
-      
-  - - name: Sai S. Nudurupati
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/ssnudurupati_1484086929_94.jpg
-        
-  -   name: Amanda Manaster
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/Amanda-Manaster-1024x678.jpg
-      
-  -   name: Yixin Mao
-      title: Data Scientist
-      affiliate: Salesforce
-      image_url: /assets/images/yixin_mao.jpeg 
-      
-  - - name: Shay Strong 
+    - name: Friedrich Knuth
+      title: Ph.D. Student
+      affiliate: Civil and Environmental Engineering
+      image_url: /assets/images/friedrich.jpg
+      github_user: friedrichknuth
+
+    - name: Shay Strong 
       title: Director of Data Science and Machine Learning
-      affiliate: Eagleview
+      affiliate: <a href="https://www.eagleview.com">EagleView</a>
       image_url: /assets/images/shay.jpg
-        
-   -  name: Valentina Staneva
-      title: Data Scientist
-      affiliate: University of Washington
-      image_url: /assets/images/Valentina_Staneva_sized.jpg
+      github_user: shaystrong
       
-   -  name: Tony Cannistra
-      title: PhD student
-      affiliate: University of Washington
-      image_url: /assets/images/Tony-Cannistra.jpg
-      
-  - - name: Amanda Tan 
-      title: Data Scientist
-      affiliate: University of Washington
-      image_url: /assets/images/Amanda-Tan.jpg
-      
-   -  name: Brandi James
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Brandi_James.jpeg
-      
-   -  name: Jeff Keck
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Jeff_Keck.jpeg
-     
-      
-  - - name: Jacob Deppen
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/jacob_Deppen.jpg
-      
-   -  name: Landung (Don) Setiawan
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
-      
-   -  name: Madhavi Srinivasan
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Madhavi_Srinivasan.jpg
-      
-  - - name: Owen Freed
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/owen_freed.jpeg
-      
-   -  name: Rohit Khattar
-      title: PhD student
-      affiliate: Brigham Young University 
-      image_url: /assets/images/Rohit.jpg
-      
-      
-   -  name: Scott Black
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Scott_Black.jpg
-      
-     
-      
+  - - name: Tony Cannistra
+      title: Doctoral Student
+      affiliate: eScience + Department of Biology
+      image_url: https://geohackweek.github.io/ghw2017/images/Tony_c.jpg
+      github_user: acannistra
+
+
     
-     
-    
-      
-      
 ---
- 
