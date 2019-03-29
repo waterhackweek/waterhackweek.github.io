@@ -155,7 +155,7 @@ team:
       image_url: /assets/images/jacob_Deppen.jpg
       
     - name: Landung (Don) Setiawan
-      title: Organizer
+      title: Software Developer
       affiliate: University of Washington
       image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
       
@@ -165,7 +165,7 @@ team:
       image_url: /assets/images/Madhavi_Srinivasan.jpg
       
   - - name: Owen Freed
-      title: Organizer
+      title: Communications Specialist
       affiliate: University of Washington
       image_url: /assets/images/owen_freed.jpeg
       
@@ -177,7 +177,7 @@ team:
       
     - name: Scott Black
       title: Organizer
-      affiliate: University of Washington
+      affiliate: CUAHSI/Utah State University
       image_url: /assets/images/Scott_Black.jpg
 
 
