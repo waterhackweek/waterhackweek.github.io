@@ -4,7 +4,7 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description:
 team:
-   -  name: Nicoleta Cristea
+  - - name: Nicoleta Cristea
       title: Research Scientist
       affiliate: eScience & Civil and Environmental Engineering
       image_url: /assets/images/ncristea.png
@@ -22,7 +22,7 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
 
-   -  name: Bart Nijssen
+  - - name: Bart Nijssen
       title: Professor
       affiliate: Civil and Environmental Engineering
       image_url: /assets/images/bart_nijssen.jpg
@@ -39,7 +39,7 @@ team:
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
       
-   -  name: Lily McGill
+  - - name: Lily McGill
       title: PhD Student
       affiliate: UW Quantitative Ecology & Resource Management
       image_url: /assets/images/lily-portrait-200x300.jpg
@@ -56,7 +56,7 @@ team:
       image_url: /assets/images/Julia_Hart.jpg
       github_user: jhart6
       
-   -  name: Anthony Castronova
+  - - name: Anthony Castronova
       title: Hydrologic Scientist
       affiliate: CUAHSI
       image_url: /assets/images/TonyCa.jpg
@@ -72,7 +72,7 @@ team:
       affiliate: Civil and Environmental Engineering
       image_url: /assets/images/Jill_Klein.png 
       
-   -  name: Veronica Smith
+  - - name: Veronica Smith
       title: Education Evaluator
       affiliate: data2insight
       image_url: /assets/images/VS_300_300.jpg
@@ -87,7 +87,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/diana_gergel.jpg 
       
-   -  name: Yifan Cheng
+  - - name: Yifan Cheng
       title: PhD student
       affiliate: University of Washington
       image_url: /assets/images/yifan_cheng.jpg
@@ -102,7 +102,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg
       
-  -   name: Sai S. Nudurupati
+  - - name: Sai S. Nudurupati
       title: PhD student
       affiliate: University of Washington
       image_url: /assets/images/ssnudurupati_1484086929_94.jpg
@@ -117,7 +117,7 @@ team:
       affiliate: Salesforce
       image_url: /assets/images/yixin_mao.jpeg 
       
-   -  name: Shay Strong 
+  - - name: Shay Strong 
       title: Director of Data Science and Machine Learning
       affiliate: Eagleview
       image_url: /assets/images/shay.jpg
@@ -132,7 +132,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Tony-Cannistra.jpg
       
-   -  name: Amanda Tan 
+  - - name: Amanda Tan 
       title: Data Scientist
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Tan.jpg
@@ -148,7 +148,7 @@ team:
       image_url: /assets/images/Jeff_Keck.jpeg
      
       
-   -  name: Jacob Deppen
+  - - name: Jacob Deppen
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/jacob_Deppen.jpg
@@ -163,7 +163,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Madhavi_Srinivasan.jpg
       
-   -  name: Owen Freed
+  - - name: Owen Freed
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/owen_freed.jpeg
