@@ -176,7 +176,7 @@ team:
       
       
     - name: Scott Black
-      title: Organizer
+      title: Software Engineer
       affiliate: CUAHSI/Utah State University
       image_url: /assets/images/Scott_Black.jpg
 
