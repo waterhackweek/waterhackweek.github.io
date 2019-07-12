@@ -186,7 +186,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 -->
-<td>Metsim - generating meteorological data</td>
+<td>Metsim - generating meteorological data  <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
 
 <td>Andrew Bennett</td>
 
@@ -281,7 +281,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:00 AM - 9:45 AM</td>
 
-<td> Cloud computing workflows</td>
+<td> Cloud computing workflows <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
 
 <td> Amanda Tan </td>
 
@@ -301,7 +301,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:15 AM - 12:00 PM</td>
 
-<td>Google Earth Engine</td>
+<td>Google Earth Engine <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
 
 <td>Matthew Bonnema</td>
 

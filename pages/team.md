@@ -4,29 +4,31 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description:
 team:
+
   - - name: Nicoleta Cristea
       title: Research Scientist
       affiliate: eScience & Civil and Environmental Engineering
       image_url: /assets/images/ncristea.png
       github_user: NCristea
-
+      
     - name: Christina Bandaragoda
       title: Senior Research Scientist
       affiliate: Civil and Environmental Engineering
       image_url: /assets/images/ChristinaB.jpeg
       github_user: ChristinaB
-
+      
     - name: Anthony Arendt
       title: Principal Research Scientist
       affiliate: eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
-
+      
   - - name: Bart Nijssen
       title: Professor
       affiliate: Civil and Environmental Engineering
       image_url: /assets/images/bart_nijssen.jpg
       github_user: bartnijssen
+      
 
     - name: Rachael Murray
       title: Program Specialist
@@ -38,12 +40,12 @@ team:
       affiliate: APL
       image_url: https://geohackweek.github.io/ghw2017/images/742403.jpg
       github_user: emiliom
-      
+
   - - name: Lily McGill
       title: PhD Student
       affiliate: UW Quantitative Ecology & Resource Management
       image_url: /assets/images/lily-portrait-200x300.jpg
-        
+      
     - name: Jim Phuong
       title: PhD Student
       affiliate: Biomedical Informatics and Medical Education
@@ -85,7 +87,7 @@ team:
     - name: Diana Gergel
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/diana_gergel.jpg 
+      image_url: /assets/images/diana_gergel.jpg
       
   - - name: Yifan Cheng
       title: PhD student
@@ -115,7 +117,7 @@ team:
     - name: Yixin Mao
       title: Data Scientist
       affiliate: Salesforce
-      image_url: /assets/images/yixin_mao.jpeg 
+      image_url: /assets/images/yixin_mao.jpeg
       
   - - name: Shay Strong 
       title: Director of Data Science and Machine Learning
@@ -136,15 +138,50 @@ team:
       title: Data Scientist
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Tan.jpg
-        
+      
+    - name: Brandi James
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Brandi_James.jpeg
+      
+    - name: Jeff Keck
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Jeff_Keck.jpeg
+      
+  - - name: Jacob Deppen
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/jacob_Deppen.jpg
+      
+    - name: Landung (Don) Setiawan
+      title: Software Developer
+      affiliate: University of Washington
+      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
+      
+    - name: Madhavi Srinivasan
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Madhavi_Srinivasan.jpg
+      
+  - - name: Owen Freed
+      title: Communications Specialist
+      affiliate: University of Washington
+      image_url: /assets/images/owen_freed.jpeg
+      
     - name: Rohit Khattar
       title: PhD student
       affiliate: Brigham Young University 
       image_url: /assets/images/Rohit.jpg
       
-    - name: 
-      title: 
-      affiliate: 
-      image_url:                                                 
+      
+    - name: Scott Black
+      title: Software Engineer
+      affiliate: CUAHSI/Utah State University
+      image_url: /assets/images/Scott_Black.jpg
+
+
+
+
+    
 ---
- 
