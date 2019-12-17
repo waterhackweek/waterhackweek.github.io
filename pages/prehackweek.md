@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Prehackweek
+title: Prehackweek training
 permalink: prehackweek.html
-description: Prehackweek training
+description: 
 ---
 
 # Preliminary setup
@@ -12,7 +12,7 @@ Please work through this [preliminary setup](https://waterhackweek.github.io/pre
 
 # Learning resources 
 
-If you are not familiar with some of the software and tools it is highly recommended to peruse the materials listed below. This page provides links, videos, articles, and tutorials to help you learn Python programming and other data science tools and get more out of the Watrhackweek experience.
+If you are not familiar with some of the software and tools, it is highly recommended to peruse the materials listed below. This page provides links, videos, articles, and tutorials to help you learn Python programming and other data science tools to get more out of your Waterhackweek experience.
 
 
 ## Installing and Getting Started
@@ -43,7 +43,7 @@ If you are not familiar with some of the software and tools it is highly recomme
 |Workflows for gridded datasets|Introduction to working with spatiotemporal datasets |Waterhackweek xarray [webinar](https://www.youtube.com/watch?v=Ls6Huc2JQaM&feature=youtu.be) and [Github](https://github.com/waterhackweek/gridded_data)|                                                                                               
 |Machine learning|Introduction to machine learning|[Machine learning with scikit-learn](http://amueller.github.io/sklearn_tutorial/#/)| 
                                                                                              
- ##  Applications    
+ ## Applications    
  
 | Topic  |Description |Resources   | 
 |---|---|---|
