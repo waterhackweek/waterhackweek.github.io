@@ -69,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="592" />
-          <entry key="md" value="5475" />
+          <entry key="md" value="5507" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="145" />
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="592" />
-          <entry key="Markdown" value="5475" />
+          <entry key="Markdown" value="5507" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="145" />
@@ -118,8 +118,8 @@
         <entry file="file://$PROJECT_DIR$/pages/prehackweek.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="675">
-                <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+              <first_editor relative-caret-position="750">
+                <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -1098,8 +1098,8 @@
     <entry file="file://$PROJECT_DIR$/pages/prehackweek.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="675">
-            <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <first_editor relative-caret-position="750">
+            <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>

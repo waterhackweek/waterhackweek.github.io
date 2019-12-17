@@ -27,7 +27,7 @@ If you are not familiar with some of the software and tools, it is highly recomm
 
 | Topic  |Description |Resources   | 
 |---|---|---|
-|Version control  | Git is a popular version control system that is the foundation of most open source software development. GitHub is a hosting service for Git repositories, enabling us to share code across teams in a web environment.|[UW eScience tutorial to set up a GitHub account](https://uwescience.github.io/hackweek-preliminary-tutorials/github/) <br> [Waterhackweek webinar on Git/Github](https://www.youtube.com/watch?v=Bc5BO9gPC9w&feature=youtu.be) <br>|
+|Version control  | Git is a popular version control system that is the foundation of most open source software development. GitHub is a hosting service for Git repositories, enabling us to share code across teams in a web environment.|[UW eScience tutorial to set up a GitHub account](https://uwescience.github.io/hackweek-preliminary-tutorials/github/) <br> Waterhackweek [webinar](https://www.youtube.com/watch?v=Bc5BO9gPC9w&feature=youtu.be) on Git/Github and [slides](https://github.com/waterhackweek/git_practice/blob/master/Git-Waterhackweek-Slides.pdf) <br>|
 |Jupyter Notebooks   |The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.   | [Installing Jupyter notebooks](https://jupyter.readthedocs.io/en/latest/install.html)  |
 |Hydroshare and Jupyter Notebooks |Hydroshare and community data sharing tools and Jupyter Notebooks|[Waterhackweek webinar - Hydroshare](https://www.youtube.com/watch?v=foRBVEKgNZ0&feature=youtu.be) <br> [Waterhackweek webinar - Hydroshare and Jupyter notebooks](https://www.youtube.com/watch?v=SWzw4hNat8I&feature=youtu.be)  |  
 
@@ -43,7 +43,7 @@ If you are not familiar with some of the software and tools, it is highly recomm
 |Workflows for gridded datasets|Introduction to working with spatiotemporal datasets |Waterhackweek xarray [webinar](https://www.youtube.com/watch?v=Ls6Huc2JQaM&feature=youtu.be) and [Github](https://github.com/waterhackweek/gridded_data)|                                                                                               
 |Machine learning|Introduction to machine learning|[Machine learning with scikit-learn](http://amueller.github.io/sklearn_tutorial/#/)| 
                                                                                              
- ## Applications    
+## Applications    
  
 | Topic  |Description |Resources   | 
 |---|---|---|
