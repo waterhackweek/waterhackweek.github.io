@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prehackweek training
+title: Learning resources
 permalink: prehackweek.html
 description: 
 ---
@@ -12,7 +12,7 @@ Please work through this [preliminary setup](https://waterhackweek.github.io/pre
 
 # Learning resources 
 
-If you are not familiar with some of the software and tools, it is highly recommended to peruse the materials listed below. This page provides links, videos, articles, and tutorials to help you learn Python programming and other data science tools to get more out of your Waterhackweek experience.
+If you are not familiar with some of the software and tools, we recommend that you peruse the materials listed below. This page provides links, videos, articles, and tutorials to help you learn Python programming and other data science tools to get more out of your Waterhackweek experience. We highly reccomend watching the Waterhackweek webinars. 
 
 
 ## Installing and Getting Started
