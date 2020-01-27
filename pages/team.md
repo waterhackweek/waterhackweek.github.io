@@ -29,11 +29,10 @@ team:
       image_url: /assets/images/bart_nijssen.jpg
       github_user: bartnijssen
       
-
-    - name: Rachael Murray
+    - name: Jane Koh
       title: Program Specialist
       affiliate: eScience
-      image_url: /assets/images/rachael.JPG
+      image_url: /assets/images/JaneKoh.jpg
 
     - name: Emilio Mayorga
       title: Research Scientist
@@ -52,11 +51,10 @@ team:
       image_url: /assets/images/jim_phuong.jpeg
       github_user: jphuong
       
-    - name: Julia Hart
+    - name: Owen Freed
       title: Communications Specialist
       affiliate: UW Freshwater Initiative
-      image_url: /assets/images/Julia_Hart.jpg
-      github_user: jhart6
+      image_url: /assets/images/owen_freed.jpeg
       
   - - name: Anthony Castronova
       title: Hydrologic Scientist
@@ -84,10 +82,10 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Oriana Chegwidden Headshot_cropped.jpg
       
-    - name: Diana Gergel
+    - name: Steven Pestana
       title: PhD student
       affiliate: University of Washington
-      image_url: /assets/images/diana_gergel.jpg
+      image_url: /assets/images/steven_pestana.jpeg
       
   - - name: Yifan Cheng
       title: PhD student
@@ -104,7 +102,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg
       
-  - - name: Sai S. Nudurupati
+  - - name: Claire Beveridge
       title: PhD student
       affiliate: University of Washington
       image_url: /assets/images/ssnudurupati_1484086929_94.jpg
@@ -149,7 +147,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
       
-  - - name: Jacob Deppen
+  - - name: Erkan Istanbulloglu
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/jacob_Deppen.jpg
@@ -173,7 +171,6 @@ team:
       title: PhD student
       affiliate: Brigham Young University 
       image_url: /assets/images/Rohit.jpg
-      
       
     - name: Scott Black
       title: Software Engineer

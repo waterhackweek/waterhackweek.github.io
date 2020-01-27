@@ -6,10 +6,12 @@ description: Schedule of events in chronological order
 ---
 # Event schedule coming soon
 
-## Cybertraining seminars:
+## 2020 CUAHSI Waterhackweek Cyberseminars
 
 Please  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">register</a> to attend the seminars.
 You can find more infromation abut the CUAHSI seminar series <a href="https://www.cuahsi.org/education/cyberseminars/">here</a> . 
+
+## 2019 CUAHSI Waterhackweek Cyberseminars
 
 *  Hydroshare and community data sharing tools - Jan 17 2019  <a href="https://youtu.be/foRBVEKgNZ0">video</a>
 *  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019   <a href="https://youtu.be/SWzw4hNat8I">video</a>
@@ -20,9 +22,9 @@ You can find more infromation abut the CUAHSI seminar series <a href="https://ww
 *  Landlab modeling framework and use cases - Feb 28 2019 <a href="https://youtu.be/m10UA5_gsuM">video</a>  <a href="https://github.com/waterhackweek/Landlab_intro">Github</a>
 *  Tools for building Apps: Tethys  -  Mar 7 2019 <a href="https://youtu.be/8wnkOJu_tjo">video</a>  <a href="http://docs.tethysplatform.org/en/stable/tutorials/getting_started.html">Docs</a>
 
-## Other Learning resources:
+## Other Learning resources
 
-* <a href="https://waterhackweek.github.io/wiki/learning_resources.html">Online tutorials</a>
+* <a href="https://waterhackweek.github.io/prehackweek.html">Online tutorials</a>
 
 ## Pre-event tutorial
 
@@ -32,7 +34,7 @@ Please work through this <a href ="https://waterhackweek.github.io/preliminary/"
 
 All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/South+Campus+Center+(SOCC)/@47.6486189,-122.3265906,14z/data=!4m5!3m4!1s0x549014ee985979b3:0x76193ba01e011bc3!8m2!3d47.6494921!4d-122.3109317">South Campus Center</a>.
 
-## Schedule
+## Tentative Schedule
 
 - [Monday](#monday)
 - [Tuesday](#tuesday)
@@ -135,7 +137,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </td>
 
 
-<td>Valentina Staneva</td>
+<td>TBD</td>
 
 </tr>
 
@@ -186,9 +188,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
 -->
-<td>Metsim - generating meteorological data  <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
+<td>Working with timeseries data or TBD <!---<a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a>-></td>
 
-<td>Andrew Bennett</td>
+<td>Emilio Mayorga or TBD</td>
 
 </tr>
 
@@ -206,9 +208,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:30 AM - 12:00 PM</td>
 
-<td>Observatory for Gridded Hydrometeorology </td>
+<td>Working with gridded meteorology </td>
 
-<td>Jim Phuong</td>
+<td>Yifan Cheng / TBD </td>
 
 </tr>
 
@@ -283,7 +285,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td> Cloud computing workflows <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
 
-<td> Amanda Tan </td>
+<td> TBD </td>
 
 </tr>
 
@@ -303,7 +305,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Google Earth Engine <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
 
-<td>Matthew Bonnema</td>
+<td>TBD</td>
 
 </tr>
 <tr>
@@ -322,7 +324,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Google Earth Engine</td>
 
-<td>Matthew Bonnema</td>
+<td>TBD</td>
 
 </tr>
 
@@ -384,7 +386,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Machine Learning</td>
 
-<td>Yixin Mao, Shay Strong</td>
+<td>TBD</td>
 
 </tr>
 
@@ -404,7 +406,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Landlab</td>
 
-<td>Amanda Manaster, Sai Nudurupati</td>
+<td>TBD</td>
 
 </tr>
 
@@ -464,9 +466,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:00 AM - 10:15 AM </td>
 
-<td>Steps to reproducible reserch</td>
+<td>Open tutorial/Project wrap-up</td>
 
-<td>Christina Bandaragoda, Anthony Castronova</td>
+<td>Open tutorial/Project wrap-up</td>
 
 </tr>
 
