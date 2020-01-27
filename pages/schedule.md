@@ -185,10 +185,8 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>8:30 AM - 10:00 AM</td>
 
-<!---
-<td><a href="https://geohackweek.github.io/vector/">Vector tools</a> - <a href="https://youtu.be/t3PMTnhl1eY">video</a></td>
--->
-<td>Working with timeseries data or TBD <!---<a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a>-></td>
+
+<td>Working with timeseries data or TBD </td>
 
 <td>Emilio Mayorga or TBD</td>
 
