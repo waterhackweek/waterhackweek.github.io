@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8473326d-6857-4786-b7e1-03bbdc84d891" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/team.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/team.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="593" />
-          <entry key="md" value="5898" />
+          <entry key="md" value="5918" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="157" />
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="593" />
-          <entry key="Markdown" value="5898" />
+          <entry key="Markdown" value="5918" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="157" />
@@ -157,24 +157,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/schedule.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1315">
-                <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+              <first_editor relative-caret-position="-3067">
+                <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="705">
-                <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+              <first_editor relative-caret-position="644">
+                <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,8 +216,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>menu</find>
-      <find>rlmu</find>
       <find>preliminary</find>
       <find>instr</find>
       <find>more inf</find>
@@ -246,6 +244,8 @@
       <find>registra</find>
       <find>prehack</find>
       <find>2019</find>
+      <find>Erkan</find>
+      <find>Owen</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.idea</dir>
@@ -282,9 +282,9 @@
         <option value="$PROJECT_DIR$/_includes/section-three.html" />
         <option value="$PROJECT_DIR$/pages/prehackweek.md" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
-        <option value="$PROJECT_DIR$/pages/team.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/pages/schedule.md" />
+        <option value="$PROJECT_DIR$/pages/team.md" />
       </list>
     </option>
   </component>
@@ -1063,21 +1063,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/team.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret line="87" column="6" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="705">
-            <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/banner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1100,8 +1085,23 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1315">
-            <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+          <first_editor relative-caret-position="-3067">
+            <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/team.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret line="87" column="6" selection-start-line="87" selection-start-column="6" selection-end-line="87" selection-end-column="6" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="644">
+            <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>

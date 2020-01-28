@@ -147,10 +147,10 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
       
-  - - name: Erkan Istanbulloglu
+  - - name: Erkan Istanbulluoglu
       title: Organizer
       affiliate: University of Washington
-      image_url: /assets/images/jacob_Deppen.jpg
+      image_url: /assets/images/erkan.png
       
     - name: Landung (Don) Setiawan
       title: Software Developer
@@ -162,10 +162,10 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Madhavi_Srinivasan.jpg
       
-  - - name: Owen Freed
+  - - name: Matthew Bonnema
       title: Communications Specialist
       affiliate: University of Washington
-      image_url: /assets/images/owen_freed.jpeg
+      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpeg
       
     - name: Rohit Khattar
       title: PhD student
@@ -176,9 +176,6 @@ team:
       title: Software Engineer
       affiliate: CUAHSI/Utah State University
       image_url: /assets/images/Scott_Black.jpg
-
-
-
-
-    
+      
+         
 ---
