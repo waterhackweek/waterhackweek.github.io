@@ -18,7 +18,7 @@ team:
       
     - name: Anthony Arendt
       title: Principal Research Scientist
-      affiliate: eScience & APL
+      affiliate: UW eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
       
