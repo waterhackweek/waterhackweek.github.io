@@ -111,15 +111,15 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Manaster-1024x678.jpg
       
-    - name: Yixin Mao
-      title: Data Scientist
-      affiliate: Salesforce
-      image_url: /assets/images/yixin_mao.jpeg
+    - name: Landung (Don) Setiawan
+      title: Software Developer
+      affiliate: University of Washington
+      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
       
-  - - name: Shay Strong 
-      title: Director of Data Science and Machine Learning
-      affiliate: Eagleview
-      image_url: /assets/images/shay.jpg
+  - - name: Erkan Istanbulluoglu 
+      title: Organizer
+      affiliate: University of Washington
+      image_url: image_url: /assets/images/erkan.png
         
     - name: Valentina Staneva
       title: Data Scientist
@@ -145,16 +145,3 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
-      
-  - - name: Erkan Istanbulluoglu
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/erkan.png
-      
-    - name: Landung (Don) Setiawan
-      title: Software Developer
-      affiliate: University of Washington
-      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
-      
-
-      
