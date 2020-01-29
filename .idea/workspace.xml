@@ -173,8 +173,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2205">
-                <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+              <first_editor relative-caret-position="870">
+                <caret line="146" column="46" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,7 +216,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>instr</find>
       <find>more inf</find>
       <find>TBD</find>
       <find>Group</find>
@@ -246,6 +245,7 @@
       <find>Erkan</find>
       <find>Owen</find>
       <find>Matt</find>
+      <find>cristn</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.idea</dir>
@@ -1100,8 +1100,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2205">
-            <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
+          <first_editor relative-caret-position="870">
+            <caret line="146" column="46" selection-start-line="146" selection-start-column="46" selection-end-line="146" selection-end-column="46" />
           </first_editor>
           <second_editor />
         </state>
