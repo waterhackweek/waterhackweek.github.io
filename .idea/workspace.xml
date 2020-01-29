@@ -69,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="593" />
-          <entry key="md" value="5918" />
+          <entry key="md" value="5956" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="157" />
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="593" />
-          <entry key="Markdown" value="5918" />
+          <entry key="Markdown" value="5956" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="157" />
@@ -173,8 +173,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="644">
-                <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -216,7 +216,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>preliminary</find>
       <find>instr</find>
       <find>more inf</find>
       <find>TBD</find>
@@ -246,6 +245,7 @@
       <find>2019</find>
       <find>Erkan</find>
       <find>Owen</find>
+      <find>Matt</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.idea</dir>
@@ -1100,8 +1100,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="644">
-            <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>

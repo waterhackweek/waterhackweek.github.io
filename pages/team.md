@@ -5,11 +5,10 @@ permalink: our-team.html
 description:
 team:
 
-  - - name: Nicoleta Cristea
-      title: Research Scientist
-      affiliate: eScience & Civil and Environmental Engineering
-      image_url: /assets/images/ncristea.png
-      github_user: NCristea
+  - - name: Jane Koh
+      title: Program specialist
+      affiliate: UW eScience Institute
+      image_url: /assets/images/JaneKoh.jpg
       
     - name: Christina Bandaragoda
       title: Senior Research Scientist
@@ -29,10 +28,10 @@ team:
       image_url: /assets/images/bart_nijssen.jpg
       github_user: bartnijssen
       
-    - name: Jane Koh
-      title: Program Specialist
-      affiliate: eScience
-      image_url: /assets/images/JaneKoh.jpg
+    - name: Madhavi Srinivasan
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Madhavi_Srinivasan.jpg
 
     - name: Emilio Mayorga
       title: Research Scientist
@@ -157,25 +156,5 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
       
-    - name: Madhavi Srinivasan
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Madhavi_Srinivasan.jpg
+
       
-  - - name: Matthew Bonnema
-      title: Communications Specialist
-      affiliate: University of Washington
-      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpeg
-      
-    - name: Rohit Khattar
-      title: PhD student
-      affiliate: Brigham Young University 
-      image_url: /assets/images/Rohit.jpg
-      
-    - name: Scott Black
-      title: Software Engineer
-      affiliate: CUAHSI/Utah State University
-      image_url: /assets/images/Scott_Black.jpg
-      
-         
----
