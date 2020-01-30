@@ -5,11 +5,10 @@ permalink: our-team.html
 description:
 team:
 
-  - - name: Nicoleta Cristea
-      title: Research Scientist
-      affiliate: eScience & Civil and Environmental Engineering
-      image_url: /assets/images/ncristea.png
-      github_user: NCristea
+  - - name: Jane Koh
+      title: Program Specialist
+      affiliate: UW eScience Institute
+      image_url: /assets/images/JaneKoh.jpg
       
     - name: Christina Bandaragoda
       title: Senior Research Scientist

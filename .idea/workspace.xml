@@ -69,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="593" />
-          <entry key="md" value="5971" />
+          <entry key="md" value="6008" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="157" />
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="593" />
-          <entry key="Markdown" value="5971" />
+          <entry key="Markdown" value="6008" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="157" />
@@ -101,24 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -173,8 +155,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -240,12 +222,12 @@
       <find>https://waterhackweek.github.io/wiki</find>
       <find>Vale</find>
       <find>registra</find>
-      <find>prehack</find>
       <find>2019</find>
       <find>Erkan</find>
       <find>Owen</find>
       <find>cristn</find>
       <find>Matt</find>
+      <find>prehack</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/.idea</dir>
@@ -1100,8 +1082,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>
