@@ -5,10 +5,11 @@ permalink: our-team.html
 description:
 team:
 
-  - - name: Jane Koh
-      title: Program specialist
-      affiliate: UW eScience Institute
-      image_url: /assets/images/JaneKoh.jpg
+  - - name: Nicoleta Cristea
+      title: Research Scientist
+      affiliate: eScience & Civil and Environmental Engineering
+      image_url: /assets/images/ncristea.png
+      github_user: NCristea
       
     - name: Christina Bandaragoda
       title: Senior Research Scientist
@@ -18,7 +19,7 @@ team:
       
     - name: Anthony Arendt
       title: Principal Research Scientist
-      affiliate: UW eScience & APL
+      affiliate: eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
       github_user: aaarendt
       
@@ -28,10 +29,10 @@ team:
       image_url: /assets/images/bart_nijssen.jpg
       github_user: bartnijssen
       
-    - name: Madhavi Srinivasan
-      title: Organizer
-      affiliate: University of Washington
-      image_url: /assets/images/Madhavi_Srinivasan.jpg
+    - name: Jane Koh
+      title: Program Specialist
+      affiliate: eScience
+      image_url: /assets/images/JaneKoh.jpg
 
     - name: Emilio Mayorga
       title: Research Scientist
@@ -111,15 +112,15 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Amanda-Manaster-1024x678.jpg
       
-    - name: Landung (Don) Setiawan
-      title: Software Developer
-      affiliate: University of Washington
-      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
+    - name: Yixin Mao
+      title: Data Scientist
+      affiliate: Salesforce
+      image_url: /assets/images/yixin_mao.jpeg
       
-  - - name: Erkan Istanbulluoglu 
-      title: Organizer
-      affiliate: University of Washington
-      image_url: image_url: /assets/images/erkan.png
+  - - name: Shay Strong 
+      title: Director of Data Science and Machine Learning
+      affiliate: Eagleview
+      image_url: /assets/images/shay.jpg
         
     - name: Valentina Staneva
       title: Data Scientist
@@ -145,6 +146,36 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
- 
+      
+  - - name: Erkan Istanbulluoglu
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/erkan.png
+      
+    - name: Landung (Don) Setiawan
+      title: Software Developer
+      affiliate: University of Washington
+      image_url: /assets/images/Landung-Don-Setiawan-300x300.jpg
+      
+    - name: Madhavi Srinivasan
+      title: Organizer
+      affiliate: University of Washington
+      image_url: /assets/images/Madhavi_Srinivasan.jpg
+      
+  - - name: Matthew Bonnema
+      title: Communications Specialist
+      affiliate: University of Washington
+      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpeg
+      
+    - name: Rohit Khattar
+      title: PhD student
+      affiliate: Brigham Young University 
+      image_url: /assets/images/Rohit.jpg
+      
+    - name: Scott Black
+      title: Software Engineer
+      affiliate: CUAHSI/Utah State University
+      image_url: /assets/images/Scott_Black.jpg
+      
+         
 ---
- 
