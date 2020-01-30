@@ -69,7 +69,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="593" />
-          <entry key="md" value="6008" />
+          <entry key="md" value="6081" />
           <entry key="txt" value="8" />
           <entry key="xml" value="3" />
           <entry key="yml" value="157" />
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="593" />
-          <entry key="Markdown" value="6008" />
+          <entry key="Markdown" value="6081" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="XML" value="3" />
           <entry key="YAML" value="157" />
@@ -155,8 +155,8 @@
         <entry file="file://$PROJECT_DIR$/pages/team.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <first_editor relative-caret-position="465">
+                <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -1082,8 +1082,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <first_editor relative-caret-position="465">
+            <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>

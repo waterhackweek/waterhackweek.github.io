@@ -28,10 +28,10 @@ team:
       image_url: /assets/images/bart_nijssen.jpg
       github_user: bartnijssen
       
-    - name: Jane Koh
-      title: Program Specialist
-      affiliate: eScience
-      image_url: /assets/images/JaneKoh.jpg
+    - name: Claire Beveridge
+      title: PhD Student
+      affiliate: Civil and Environmental Engineering
+      image_url: /assets/images/claire.png
 
     - name: Emilio Mayorga
       title: Research Scientist
