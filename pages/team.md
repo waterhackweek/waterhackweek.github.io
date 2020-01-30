@@ -4,7 +4,6 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description:
 team:
----
 
   - - name: Jane Koh
       title: Program specialist
@@ -146,5 +145,6 @@ team:
       title: Organizer
       affiliate: University of Washington
       image_url: /assets/images/Jeff_Keck.jpeg
-      
+ 
 ---
+ 
