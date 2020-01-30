@@ -101,7 +101,7 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Matthew_Bonnema_cropped_web.jpg
       
-  - - name: Claire Beveridge
+  - - name: Sai Nudurupat
       title: PhD student
       affiliate: University of Washington
       image_url: /assets/images/ssnudurupati_1484086929_94.jpg
@@ -161,10 +161,10 @@ team:
       affiliate: University of Washington
       image_url: /assets/images/Madhavi_Srinivasan.jpg
       
-  - - name: Matthew Bonnema
+  - - name: Juila Hart
       title: Communications Specialist
       affiliate: University of Washington
-      image_url: /assets/images/Matthew_Bonnema_cropped_web.jpeg
+      image_url: /assets/images/Julia_Hart.jpg
       
     - name: Rohit Khattar
       title: PhD student
