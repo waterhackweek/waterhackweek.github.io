@@ -52,7 +52,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Time</th>
 
-<th>Event</th>
+<th>Topic</th>
+
+<th>Tools</th>
 
 <th>Instructors</th>
 
@@ -75,9 +77,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare Tools Part I </a></td>
 -->
-<td> Jupyter Notebook, Jupyter Hub and Hydroshare Tools Part I </td>
+<td> Reproducible Water Research & Community Tools for Sharing Data</td>
+    
+<td>Jupyter Notebook, Jupyter Hub and Hydroshare</td>
 
-<td>Anthony Castronova</td>
+<td>Anthony Castronova, Amber Spackman</td>
 
 </tr>
 
@@ -98,9 +102,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare tools </a></td>
 -->
-<td> Jupyter Notebook, Jupyter Hub and Hydroshare Tools Part II </td>
+<td> Convergence Science Methods & Open-Source Software Tools   </td>
 
-<td>Anthony Castronova</td>
+<td> Git, Github, GitLab, GitKraken  </td>
+
+<td>Madhavi Srinivasan, Scott Black</td>
 
 </tr>
 
@@ -157,7 +163,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Welcome Reception in eScience Data Studio</td>
 
-<td>Everyone</td>
+<td>Waterhackweek and Friends</td>
 
 </tr>
 
@@ -186,9 +192,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>8:30 AM - 10:00 AM</td>
 
 
-<td>Working with timeseries data or TBD </td>
+<td>Time series: using water data to simulate the past and predict the future</td>
 
-<td>Emilio Mayorga or TBD</td>
+<td>Steven Pestana, Emilio Mayorga, Bart Nijssen, Yifan Chen</td>
+
+<td>Pandas, numpy, matplotlib, seaborn</td>
 
 </tr>
 
@@ -206,7 +214,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:30 AM - 12:00 PM</td>
 
-<td>Working with gridded meteorology </td>
+<td>Spatial Data and Gridded Meteorology </td>
+
+<td>Oriana Chegwidden, Andrew Bennett</td>
+
+<td>Geopandas, Netcdf</td>
 
 <td>Yifan Cheng / TBD </td>
 
@@ -225,9 +237,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:00 - 1:15 PM</td>
 
-<td>Group Photo </td>
+<td>Group Photo by Portage Bay</td>
 
-<td> Everyone </td>
+<td> All the Water People </td>
 
 </tr>
 <tr>
@@ -281,9 +293,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:00 AM - 9:45 AM</td>
 
-<td> Cloud computing workflows <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
+<td> Cloud computing workflows for big data and important water challenges <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
 
-<td> TBD </td>
+<td> Amazon Web Services, Pangeo, XSEDE</td>
+
+<td> Amanda Tan, Christina Bandaragoda </td>
 
 </tr>
 
@@ -301,9 +315,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:15 AM - 12:00 PM</td>
 
-<td>Google Earth Engine <a href="https://github.com/waterhackweek/MetSim-tutorial">Link to Tutorial</a></td>
+<td>Google Earth Engine (GEE)</td>
 
-<td>TBD</td>
+<td>Gridded Climate Data, GeoVisualization, Satellite Remote Sensing</td>
+
+<td>Claire Beveridge and Friends</td>
 
 </tr>
 <tr>
@@ -322,7 +338,9 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Google Earth Engine</td>
 
-<td>TBD</td>
+<td>Machine Learning, Image Classification</td>
+
+<td>Shea Strong</td>
 
 </tr>
 
