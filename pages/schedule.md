@@ -498,7 +498,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Open tutorial/Project wrap-up</td>
 
-<td>Open tutorial/Project wrap-up</td>
+<td></td>
 
 </tr>
 
@@ -519,7 +519,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Open tutorial/Project wrap-up</td>
 
-<td>TBD</td>
+<td></td>
 
 </tr>
 
