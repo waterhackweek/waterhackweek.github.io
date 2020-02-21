@@ -108,7 +108,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
         <li>Github</li>
         <li>GitLab</li>
         <li>GitKraken</li>
-      </ul
+    </ul>
 </td>
 
 <!--<td>Madhavi Srinivasan, Scott Black</td>-->
