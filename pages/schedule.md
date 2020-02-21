@@ -64,7 +64,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>8:30 AM - 9:15 AM</td>
 
-<td>Welcome to Waterhackweek</td>
+<td>Welcome to Waterhackweek: The Frontiers for Cumulative Team Data Science and Convergent Reproducible Water Research</td>
 
 <td>Waterhackweek adminstrative team </td>
 
@@ -81,7 +81,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
     
 <td>Jupyter Notebook, Jupyter Hub and Hydroshare</td>
 
-<td>Anthony Castronova, Amber Spackman</td>
+<td>Sarah, Jon, Anthony, Victoria</td>
 
 </tr>
 
@@ -90,8 +90,6 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>10:30 AM - 11:00 AM</td>
 
 <td>Icebreaker activity and coffee break</td>
-
-<td></td>
 
 </tr>
 
@@ -102,7 +100,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare tools </a></td>
 -->
-<td> Convergence Science Methods & Open-Source Software Tools   </td>
+<td> Convergence Science Methods and Open-Source Software Tools  </td>
 
 <td> Git, Github, GitLab, GitKraken  </td>
 
@@ -116,15 +114,13 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Lunch</td>
 
-<td></td>
-
 </tr>
 
 <tr>
 
-<td>1:00 PM to 2:15 PM</td>
+<td>1:00 PM to 2:30 PM</td>
 
-<td>Project Introductions and Pitching</td>
+<td>Project Introductions and Pitching, Formalize Project Groups</td>
 
 <td>Everyone</td>
 
@@ -132,28 +128,19 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <tr>
 
-<td>2:15 PM - 2:30 PM</td>
+<td>2:30 PM - 3:00 PM</td>
 
-<td>
-
-<ul>
-    <li>Version control: Git</li>
-    <li>Github</li>
-</ul>
-</td>
-
-
-<td>TBD</td>
+<td> Group Chat and Coffee Break </td>
 
 </tr>
 
 <tr>
 
-<td>2:30 PM - 5:00 PM</td>
+<td>3:00 PM - 5:00 PM</td>
 
-<td>Project Work</td>
+<td>Project Kickstart </td>
 
-<td>Everyone</td>
+<td>Github, ReadtheDocs, Norms, Team Science (Me/We/Now Objectives)</td>
 
 </tr>
 
