@@ -64,7 +64,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>8:30 AM - 9:15 AM</td>
 
-<td>Welcome to Waterhackweek: Cumulative Team Data Science and Convergent Reproducible Water Research</td>
+<td>Welcome to Waterhackweek <br/> Cumulative Team Data Science & <br/> Convergent Reproducible Water Research</td>
 
 <!--<td>Waterhackweek adminstrative team </td>-->
 
@@ -77,9 +77,15 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare Tools Part I </a></td>
 -->
-<td> Reproducible Water Research & Community Tools for Sharing Data</td>
+<td> Reproducible Water Research <br/> & Community Tools for Sharing Data</td>
     
-<td>Jupyter Notebook, Jupyter Hub and Hydroshare</td>
+<td>
+    <ul>
+        <li>Jupyter Notebook</li>
+        <li> Jupyter Hub </li>
+        <li> Hydroshare </li>
+    </ul>
+</td>
 
 <!--<td>Sarah, Jon, Anthony, Victoria</td>-->
 
@@ -100,7 +106,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare tools </a></td>
 -->
-<td> Convergence Science Methods and Open-Source Software Tools  </td>
+<td> Convergence Science Methods & <br/> Open-Source Software Tools  </td>
 
 <td>
     <ul>
@@ -127,7 +133,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:00 PM to 2:30 PM</td>
 
-<td>Project Introductions and Pitching, Formalize Project Groups</td>
+<td>Project Introductions and Pitching, <br/> Formalize Project Groups</td>
 
 <!--<td>Everyone</td>-->
 
@@ -147,7 +153,14 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Kickstart </td>
 
-<td>Github, ReadtheDocs, Norms, Team Science (Me/We/Now Objectives)</td>
+<td>
+    <ul>
+        <li>Github</li>
+        <li>ReadtheDocs</li>
+        <li>Team Science (Me/We/Now Objectives)</li>
+    </ul>
+    
+</td>
 
 </tr>
 
