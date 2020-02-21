@@ -301,11 +301,15 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>9:00 AM - 9:45 AM</td>
 
-<td> Cloud computing workflows for big data and important water challenges <a href="https://amanda-tan.github.io/cloud101_aws/">Link to tutorial</a></td>
+<td> <a href="https://amanda-tan.github.io/cloud101_aws/">Cloud computing workflows for big data and important water challenges</a></td>
 
-<td> Amazon Web Services, Pangeo, XSEDE</td>
-
-<td> Amanda Tan, Christina Bandaragoda </td>
+<td> 
+    <ul>
+        <li>Amazon Web Services</li>
+        <li>Pangeo</li>
+        <li>XSEDE</li>
+    </ul>
+</td>
 
 </tr>
 
@@ -315,7 +319,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Coffee break</td>
 
-<td>Everyone</td>
+<td></td>
 
 </tr>
 
@@ -325,9 +329,15 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Google Earth Engine (GEE)</td>
 
-<td>Gridded Climate Data, GeoVisualization, Satellite Remote Sensing</td>
+<td>
+    <ul>
+        <li>Gridded Climate Data</li>
+        <li>GeoVisualization</li>
+        <li>Satellite Remote Sensing</li>
+    </ul>
+</td>
 
-<td>Claire Beveridge and Friends</td>
+<!--<td>Claire Beveridge and Friends</td>-->
 
 </tr>
 <tr>
@@ -340,27 +350,13 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 </tr>
 
-<tr> 
-
-<td>1:00 PM - 2:00 PM</td>
-
-<td>Google Earth Engine</td>
-
-<td>Machine Learning, Image Classification</td>
-
-<td>Shea Strong</td>
-
-</tr>
-
-
-
 <tr>
 
-<td>2:00 PM - 4:30 PM</td>
+<td>1:00 PM - 4:30 PM</td>
 
 <td>Project Work</td>
 
-<td>Everyone</td>
+<td></td>
 
 </tr>
 
@@ -370,7 +366,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Check-in</td>
 
-<td>Everyone</td>
+<td></td>
 
 </tr>
 
