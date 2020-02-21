@@ -95,7 +95,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:30 AM - 11:00 AM</td>
 
-<td>Icebreaker activity and coffee break</td>
+<td>Icebreaker activity & coffee break</td>
 
 </tr>
 
@@ -106,7 +106,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <!---
 <td><a href="insert link here">Jupyter notebooks, Jupyter Hub and Hydroshare tools </a></td>
 -->
-<td> Convergence Science Methods & <br/> Open-Source Software Tools  </td>
+<td> Convergence Science Methods <br/> & Open-Source Software Tools  </td>
 
 <td>
     <ul>
@@ -127,6 +127,8 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Lunch</td>
 
+<td></td>
+
 </tr>
 
 <tr>
@@ -134,6 +136,8 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>1:00 PM to 2:30 PM</td>
 
 <td>Project Introductions and Pitching, <br/> Formalize Project Groups</td>
+
+<td></td>
 
 <!--<td>Everyone</td>-->
 
