@@ -64,7 +64,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>8:30 AM - 9:15 AM</td>
 
-<td>Welcome to Waterhackweek: The Frontiers for Cumulative Team Data Science and Convergent Reproducible Water Research</td>
+<td>Welcome to Waterhackweek: Cumulative Team Data Science and Convergent Reproducible Water Research</td>
 
 <!--<td>Waterhackweek adminstrative team </td>-->
 
