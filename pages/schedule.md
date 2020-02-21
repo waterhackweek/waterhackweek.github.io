@@ -102,7 +102,14 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 -->
 <td> Convergence Science Methods and Open-Source Software Tools  </td>
 
-<td> Git, Github, GitLab, GitKraken  </td>
+<td>
+    <ul>
+        <li>Git</li>
+        <li>Github</li>
+        <li>GitLab</li>
+        <li>GitKraken</li>
+      </ul
+</td>
 
 <!--<td>Madhavi Srinivasan, Scott Black</td>-->
 
