@@ -56,7 +56,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Tools</th>
 
-<th>Instructors</th>
+<!--<th>Instructors</th>-->
 
 </tr>
 
@@ -66,7 +66,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Welcome to Waterhackweek: The Frontiers for Cumulative Team Data Science and Convergent Reproducible Water Research</td>
 
-<td>Waterhackweek adminstrative team </td>
+<!--<td>Waterhackweek adminstrative team </td>-->
 
 </tr>
 
@@ -81,7 +81,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
     
 <td>Jupyter Notebook, Jupyter Hub and Hydroshare</td>
 
-<td>Sarah, Jon, Anthony, Victoria</td>
+<!--<td>Sarah, Jon, Anthony, Victoria</td>-->
 
 </tr>
 
@@ -104,7 +104,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td> Git, Github, GitLab, GitKraken  </td>
 
-<td>Madhavi Srinivasan, Scott Black</td>
+<!--<td>Madhavi Srinivasan, Scott Black</td>-->
 
 </tr>
 
@@ -122,7 +122,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Introductions and Pitching, Formalize Project Groups</td>
 
-<td>Everyone</td>
+<!--<td>Everyone</td>-->
 
 </tr>
 
@@ -150,7 +150,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Welcome Reception in eScience Data Studio</td>
 
-<td>Waterhackweek and Friends</td>
+<!--<td>Waterhackweek and Friends</td>-->
 
 </tr>
 
@@ -170,7 +170,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Instructors</th>
+<!--<th>Instructors</th>-->
 
 </tr>
 
@@ -181,7 +181,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Time series: using water data to simulate the past and predict the future</td>
 
-<td>Steven Pestana, Emilio Mayorga, Bart Nijssen, Yifan Chen</td>
+<!--<td>Steven Pestana, Emilio Mayorga, Bart Nijssen, Yifan Chen</td>-->
 
 <td>Pandas, numpy, matplotlib, seaborn</td>
 
@@ -203,11 +203,11 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Spatial Data and Gridded Meteorology </td>
 
-<td>Oriana Chegwidden, Andrew Bennett</td>
+<!--<td>Oriana Chegwidden, Andrew Bennett</td>-->
 
 <td>Geopandas, Netcdf</td>
 
-<td>Yifan Cheng / TBD </td>
+<!--<td>Yifan Cheng / TBD </td>-->
 
 </tr>
 
@@ -243,7 +243,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:30 PM - 5:00 PM</td>
 <td>Project work</td>
-<td>Everyone</td>
+<!--<td>Everyone</td>-->
 </tr>
 
 <tr>
@@ -252,7 +252,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Hackathon Sessions South Campus Center open until 7 PM</td>
 
-<td>Everyone</td>
+<!--<td>Everyone</td>-->
 
 </tr>
 
