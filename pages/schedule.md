@@ -406,7 +406,12 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Machine Learning</td>
 
-<td>TBD</td>
+<td>
+<ul>
+    <li>Scikit-Learn</li>
+    <li> SpotPy</li>
+    </ul>
+</td>
 
 </tr>
 
@@ -424,9 +429,16 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>10:30 AM - 12:00 AM</td>
 
-<td>Landlab</td>
+<td>Climate Data  & Hydrologic Models</td>
 
-<td>TBD</td>
+<td>
+    <ul>
+        <li>metpy</li>
+        <li>metsim</li>
+        <li>observatory</li>
+        <li>landlab</li>
+    </ul>
+</td>
 
 </tr>
 
@@ -446,8 +458,6 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Work</td>
 
-<td> Everyone </td>
-
 <td></td>
 
 </tr>
@@ -458,7 +468,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Waterhackweek Community Mixer, <a href="http://www.washington.edu/diversity/tribal-relations/intellectual-house/">UW Intellectual House</a></td>
 
-<td>Everyone</td>
+<td></td>
 
 </tr>
 
