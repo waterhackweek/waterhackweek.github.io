@@ -54,7 +54,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Tools</th>
+<th>Tools/Topics</th>
 
 <!--<th>Instructors</th>-->
 
@@ -195,7 +195,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Tools</th>
+<th>Tools/Topics</th>
 
 </tr>
 
@@ -293,7 +293,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Instructors</th>
+<th>Tools/Topics</th>
 
 </tr>
 
@@ -396,7 +396,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Instructors</th>
+<th>Tools/Topics</th>
 
 </tr>
 
@@ -488,7 +488,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<th>Instructors</th>
+<th>Tools/Topics</th>
 
 </tr>
 
