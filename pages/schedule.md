@@ -52,7 +52,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Time</th>
 
-<th>Topic</th>
+<th>Event</th>
 
 <th>Tools</th>
 
@@ -135,7 +135,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:00 PM to 2:30 PM</td>
 
-<td>Project Introductions and Pitching, <br/> Formalize Project Groups</td>
+<td>Project Introductions and Pitching <br/> Formalize Project Groups</td>
 
 <td></td>
 
@@ -175,6 +175,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>Welcome Reception in eScience Data Studio</td>
 
 <!--<td>Waterhackweek and Friends</td>-->
+<td></td>
 
 </tr>
 
@@ -194,7 +195,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <th>Event</th>
 
-<!--<th>Instructors</th>-->
+<th>Tools</th>
 
 </tr>
 
@@ -207,7 +208,12 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <!--<td>Steven Pestana, Emilio Mayorga, Bart Nijssen, Yifan Chen</td>-->
 
-<td>Pandas, numpy, matplotlib, seaborn</td>
+<td>
+    <ul>
+        <li>Pandas, numpy</li>
+        <li>matplotlib, seaborn</li>
+    </ul>
+</td>
 
 </tr>
 
@@ -250,7 +256,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Group Photo by Portage Bay</td>
 
-<td> All the Water People </td>
+<td></td>
 
 </tr>
 <tr>
@@ -259,7 +265,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>Project Check-in</td>
 
-<td>Everyone</td>
+<td></td>
 
 </tr>
 
@@ -267,7 +273,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>1:30 PM - 5:00 PM</td>
 <td>Project work</td>
-<!--<td>Everyone</td>-->
+<td></td>
 </tr>
 
 <tr>
