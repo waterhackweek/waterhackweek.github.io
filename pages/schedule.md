@@ -252,23 +252,13 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 </tr>
 <tr>
 
-<td>1:00 - 1:15 PM</td>
+<td>1:00 - 1:30 PM</td>
 
 <td>Group Photo by Portage Bay</td>
 
 <td></td>
 
 </tr>
-<tr>
-
-<td>1:15 PM - 1:45 PM</td>
-
-<td>Project Check-in</td>
-
-<td></td>
-
-</tr>
-
 <tr>
 
 <td>1:30 PM - 5:00 PM</td>
@@ -281,6 +271,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 <td>5:00 PM - 7:00 PM (optional)</td>
 
 <td>Hackathon Sessions South Campus Center open until 7 PM</td>
+<td></td>
 
 <!--<td>Everyone</td>-->
 
