@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-image: /assets/welcome-reception.png
+image: welcome-reception.png
 permalink: events.html
 description: 
 ---
