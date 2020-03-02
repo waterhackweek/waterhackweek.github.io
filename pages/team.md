@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INSTRUCTORS and EVENT COORDINATORS
+title: OUR TEAM
 permalink: our-team.html
 description:
 team:
