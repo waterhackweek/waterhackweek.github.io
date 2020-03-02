@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event Details
+title: Events
 permalink: event.html
 description: 
 ---
