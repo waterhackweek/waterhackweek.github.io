@@ -172,7 +172,7 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 <td>6:00 - 8:30 PM</td>
 
-<td>Welcome Reception in eScience Data Studio</td>
+<td>Welcome Reception, <a href="https://www.google.com/maps/place/eScience+Institute/@47.6533665,-122.3117848,15z/data=!4m5!3m4!1s0x0:0x7c2434f079426d8c!8m2!3d47.6533665!4d-122.3117848">UW eScience Data Studio</a></td>
 
 <!--<td>Waterhackweek and Friends</td>-->
 <td></td>
