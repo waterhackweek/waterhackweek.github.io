@@ -47,7 +47,7 @@ If you are not familiar with some of the software and tools, we recommend that y
 ### Other Useful Links
 1. [Github](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 2. [Jupyter Notebook](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
-3. [Quick overview of Machine Learning] (https://vas3k.com/blog/machine_learning/)
+3. [Quick overview of Machine Learning](https://vas3k.com/blog/machine_learning/)
                                                                                              
 ## Applications    
  
