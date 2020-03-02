@@ -43,6 +43,11 @@ If you are not familiar with some of the software and tools, we recommend that y
 |Python Visualization Libraries | Documentation for various python visualization libraries; [example](https://nbviewer.jupyter.org/urls/mountain-hydrology-research-group.github.io/data-analysis/resources/interactive-plotting-demo.ipynb) using Bokeh | [Matplotlib](https://matplotlib.org/tutorials/index.html) <br> [Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html) <br> [Seaborn](https://seaborn.pydata.org/tutorial.html) <br> [Bokeh](https://hub.gke.mybinder.org/user/bokeh-bokeh-notebooks-dkpbe60n/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb) <br> Waterhackweek cartopy [webinar](https://www.youtube.com/watch?v=BrolsSGMSVU&feature=youtu.be) and [Github](https://github.com/waterhackweek/visualization) 
 |Workflows for gridded datasets|Introduction to working with spatiotemporal datasets |Waterhackweek xarray [webinar](https://www.youtube.com/watch?v=Ls6Huc2JQaM&feature=youtu.be) and [Github](https://github.com/waterhackweek/gridded_data)|                                                                                               
 |Machine learning|Introduction to machine learning|[Machine learning with scikit-learn](http://amueller.github.io/sklearn_tutorial/#/)| 
+
+### Other Useful Links
+1. [Github](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+2. [Jupyter Notebook](https://medium.com/swlh/some-neat-jupyter-tricks-be0775c3f17)
+3. [Quick overview of Machine Learning] (https://vas3k.com/blog/machine_learning/)
                                                                                              
 ## Applications    
  
