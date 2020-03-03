@@ -6,29 +6,6 @@ description: Schedule of events in chronological order
 ---
 # Event schedule coming soon
 
-## 2020 CUAHSI Waterhackweek Cyberseminars
-
-Please  <a href="https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series">register</a> to attend the seminars.
-You can find more infromation abut the CUAHSI seminar series <a href="https://www.cuahsi.org/education/cyberseminars/">here</a> . 
-
-## 2019 CUAHSI Waterhackweek Cyberseminars
-
-*  Hydroshare and community data sharing tools - Jan 17 2019  <a href="https://youtu.be/foRBVEKgNZ0">video</a>
-*  Jupyter notebooks and workflows on Hydroshare - Jan 24 2019   <a href="https://youtu.be/SWzw4hNat8I">video</a>
-*  Visualization of water datasets - Jan 31 2019  <a href="https://youtu.be/BrolsSGMSVU">video</a>  <a href="https://github.com/waterhackweek/visualization">Github</a>
-*  Data access and time-series statistics - Feb 7 2019 <a href="https://youtu.be/uQXuS1AB2M0">video</a>  <a href="https://github.com/waterhackweek/tsdata_access">Github</a>
-*  Workflows for gridded climate datasets - Feb 14 2019 <a href="https://youtu.be/Ls6Huc2JQaM">video</a>  <a href="https://github.com/waterhackweek/gridded_data">Github</a>
-*  Version control git/Github - Feb 21 2019 <a href="https://youtu.be/Bc5BO9gPC9w">video</a>  <a href="https://github.com/waterhackweek/git_practice/blob/master/Git-Waterhackweek-Slides.pdf">Slides</a>
-*  Landlab modeling framework and use cases - Feb 28 2019 <a href="https://youtu.be/m10UA5_gsuM">video</a>  <a href="https://github.com/waterhackweek/Landlab_intro">Github</a>
-*  Tools for building Apps: Tethys  -  Mar 7 2019 <a href="https://youtu.be/8wnkOJu_tjo">video</a>  <a href="http://docs.tethysplatform.org/en/stable/tutorials/getting_started.html">Docs</a>
-
-## Other Learning resources
-
-* <a href="https://waterhackweek.github.io/prehackweek.html">Online tutorials</a>
-
-## Pre-event tutorial
-
-Please work through this <a href ="https://waterhackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of Waterhackweek!
 
 ## Location
 
