@@ -8,7 +8,7 @@ description:
 
 Join us for the Waterhackweek welcome reception to kick off Waterhackweek 2020! Dinner and drinks will be provided. Contact an organizer if you have dietary restrictions and we can provide additional information.
 
-When: Monday, March 23, 2020, 6:00 - 8:30 PM
+When: TBD
 
 Where: UW eScience Institute, 6th Floor, UW Physics Tower
 
