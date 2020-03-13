@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning resources
+title: Useful Links
 permalink: prehackweek.html
 description: 
 ---
