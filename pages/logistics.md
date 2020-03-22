@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Travel Logistics
-image: welcom-reception2.png
 permalink: logistics.html
 description: 
 ---
