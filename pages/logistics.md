@@ -17,7 +17,7 @@ Taxi’s and uber/lyft are also available from the airport. Note that for uber/l
 
 ## Lodging
 
-Participants are responsible for paying for and making all travel and lodging arrangements. Please book and pay for your travel and lodging asap. You are responsible for making your travel and lodging arrangements. Please plan to arrive in Seattle by Sunday, March 22nd and be here until the evening of Friday, March 27th in order to participate fully in the Waterhackweek. 
+Participants are responsible for paying for and making all travel and lodging arrangements. Please book and pay for your travel and lodging asap. You are responsible for making your travel and lodging arrangements. Please plan to arrive in Seattle by Sunday, August 31st and be here until the evening of Friday, September 04th in order to participate fully in the Waterhackweek. 
 
 Options for lodging: Hotels that are close to the UW campus include the Marriott [Residence Inn](https://www.marriott.com/hotels/hotel-rooms/seaud-residence-inn-seattle-university-district/), [Watertown Hotel](https://www.staypineapple.com/watertown-hotel-seattle-wa) and the [University Inn](https://www.staypineapple.com/university-inn-seattle-wa). You are also welcome to book an airbnb or making other lodging arrangements.
 
