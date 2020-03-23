@@ -28,7 +28,10 @@ The Canary Opera pilot is a data collection process that provides group generate
 
 ### Private feedback 
 a.Connect with <a href="mailto:cband@uw.edu">Dr. Christina Bandaragoda</a> in person or private message on Slack 
-b.Write de-identified feedback on the Canary Opera feedback loop flip chart in the break area for other participants to see c.Deliver anonymous feedback in the private message box under the breakroom flipchart. Organizers will review all information to identify those structures, attitudes and behaviors that uphold creativity and science collaboration. 
+
+b.Write de-identified feedback on the Canary Opera feedback loop flip chart in the break area for other participants to see
+
+c.Deliver anonymous feedback in the private message box under the breakroom flipchart. Organizers will review all information to identify those structures, attitudes and behaviors that uphold creativity and science collaboration. 
 
 
 For an  informal, neutral, and confidential resource  that can help the University community address complaints and/or challenging situations, contact the Office of the Ombud, 206-543-6028. ombuds@uw.edu, www.uw.edu/ombud.   For individuals who are uncertain about whether they want to pursue a formal complaint, but would like someone to speak to, the Ombud office would be a good place to start and they can assist with navigating the different resources on campus.
