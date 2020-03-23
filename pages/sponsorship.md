@@ -15,7 +15,7 @@ If you are intersted in sponsoring Waterhackweek (e.g. student-industry mixer, w
  If you are interested in becoming a sponsor, please contact Jane Koh at janekoh1@uw.edu. 
 
 
-![Sponsorship tiers](assets/images/sponsorship_tiers.png)
+![Sponsorship tiers](assets/images/sponsorship.png)
 
 
 As a hackweek sponsor for this event, your number one responsibility is also to adhere to the hackweek [code of conduct](https://waterhackweek.github.io/wiki/code_of_conduct.html) designed by the Seattle data science community. Your visibility throughout the event provides you with a unique opportunity to demonstrate professional, respectful behaviors that other participants can emulate throughout the week. 
