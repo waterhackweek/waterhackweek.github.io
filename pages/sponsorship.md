@@ -11,14 +11,13 @@ If you are intersted in sponsoring Waterhackweek (e.g. student-industry mixer, w
 
 ## Roles and sponsorship tiers
 
- Sponsors will benefit from advertising their company with our locally and globally-reaching eScience Institute affiliates, networking with data scientists, discovering new technology and recruitment opportunities, and supporting innovative research. Other opportunities include travel sponsorship for participants on an as-needed basis to increase program accessibility. 
- If you are interested in becoming a sponsor, please contact Jane Koh at janekoh1@uw.edu. 
+Sponsors will benefit from advertising their company with our locally and globally-reaching eScience Institute affiliates, networking with data scientists, discovering new technology and recruitment opportunities, and supporting innovative research. Other opportunities include travel sponsorship for participants on an as-needed basis to increase program accessibility. 
 
 
 ![Sponsorship tiers](assets/images/sponsorship.png)
 
 
-As a hackweek sponsor for this event, your number one responsibility is also to adhere to the hackweek [code of conduct](https://waterhackweek.github.io/wiki/code_of_conduct.html) designed by the Seattle data science community. Your visibility throughout the event provides you with a unique opportunity to demonstrate professional, respectful behaviors that other participants can emulate throughout the week. 
+As a hackweek sponsor for this event, your number one responsibility is also to adhere to the hackweek [code of conduct](https://waterhackweek.github.io/code-of-conduct.html) designed by the Seattle data science community. Your visibility throughout the event provides you with a unique opportunity to demonstrate professional, respectful behaviors that other participants can emulate throughout the week. 
 
 ## What can sponsors expect to gain from this experience?
 
