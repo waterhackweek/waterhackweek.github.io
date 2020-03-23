@@ -21,12 +21,13 @@ Waterhackweek organizers are dedicated to providing a harassment-free learning e
 
 If you have experienced or observed a Code of Conduct Violation (unethical or unprofessional behavior), we have outlined multiple options for you to report.  
 
-1) For an immediate in person response to discuss concerns or next steps, contact Waterhackweek Program Director: Christina Bandaragoda, <a href="mailto:cband@uw.edu">cband@uw.edu</a>.
+For an immediate in person response to discuss concerns or next steps, contact Waterhackweek Program Director: Christina Bandaragoda, <a href="mailto:cband@uw.edu">cband@uw.edu</a>.
 
-2) Public feedback: The Canary Opera pilot is a data collection process that provides group generated feedback on what’s working by reflecting and celebrating words and actions that enhance the hackweek experience. You can use flipcharts in your hackroom or #canaryopera on Slack to give public feedback on what is adding to or detracting from your experience. These feedback loop venues are for ideas and comments and are subject to public disclosure following federal guidelines of a U.S. public institution. For situations that distract you from learning, we will use the feedback loop to quickly generate solutions that address any issues we can.  
+### Public feedback
+The Canary Opera pilot is a data collection process that provides group generated feedback on what’s working by reflecting and celebrating words and actions that enhance the hackweek experience. You can use flipcharts in your hackroom or #canaryopera on Slack to give public feedback on what is adding to or detracting from your experience. These feedback loop venues are for ideas and comments and are subject to public disclosure following federal guidelines of a U.S. public institution. For situations that distract you from learning, we will use the feedback loop to quickly generate solutions that address any issues we can.  
 
-3)Private feedback:  
-a.Connect with Dr. Christina Bandaragoda in person or private message on Slack 
+### Private feedback 
+a.Connect with <a href="mailto:cband@uw.edu">Dr. Christina Bandaragoda</a> in person or private message on Slack 
 b.Write de-identified feedback on the Canary Opera feedback loop flip chart in the break area for other participants to see c.Deliver anonymous feedback in the private message box under the breakroom flipchart. Organizers will review all information to identify those structures, attitudes and behaviors that uphold creativity and science collaboration. 
 
 
