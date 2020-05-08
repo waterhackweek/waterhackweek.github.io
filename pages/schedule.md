@@ -176,47 +176,45 @@ All tutorials and hacking sessions are located at the <a href="https://www.googl
 
 </tr>
 
+
 <tr>
-
-<td>8:30 AM - 10:00 AM</td>
-
-
-<td>Time series: using water data to simulate the past and predict the future</td>
-
-<!--<td>Steven Pestana, Emilio Mayorga, Bart Nijssen, Yifan Chen</td>-->
-
-<td>
-    <ul>
-        <li>Pandas, numpy</li>
-        <li>matplotlib, seaborn</li>
-    </ul>
+<td>8:30 AM - 9:00 AM</td>
+<td>Introduction: Water data, Python and You</td>
+<!--<td>Bart Nijssen</td>-->
+<td>Introduce concepts, data access strategies, data types, Python ecosystem
 </td>
-
 </tr>
 
 <tr>
+<td>9:00 AM - 10:00 AM</td>
+<!--<td>Yifan Chen</td>-->
+<td>Access and analyze point time series data</td>
+<td>pandas, geopandas, matplotlib, cartopy, ulmo, binder
+</td>
+</tr>
 
+<tr>
 <td>10:00 AM - 10:30 AM</td>
-
 <td>Coffee Break</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
-<td>10:30 AM - 12:00 PM</td>
-
-<td>Spatial Data and Gridded Meteorology </td>
-
-<!--<td>Oriana Chegwidden, Andrew Bennett</td>-->
-
-<td>Geopandas, Netcdf</td>
-
-<!--<td>Yifan Cheng / TBD </td>-->
-
+<td>10:30 AM - 11:30 AM</td>
+<!--<td>Steven Pestana</td>-->
+<td>Access and analyze raster and multi-dimensional gridded data</td>
+<td>xarray, rasterio, netcdf, matplotlib, cartopy, binder, HydroShare JupyterHub
+</td>
 </tr>
+
+<tr>
+<td>11:30 AM - 12:00 PM</td>
+<!--<td>Emilio Mayorga</td>-->
+<td>Water data mash up</td>
+<td>All the above, plus rasterstats, HoloViz
+</td>
+</tr>
+
 
 <tr>
 
